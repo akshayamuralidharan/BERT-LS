@@ -1,0 +1,3219 @@
+-----read word embeddings----
+2000000 300
+
+---read word frequency----
+----loading PPDB ...
+originial word--------- -rrb-
+['-', '–', ')', '—', ',', '.', ';', '/', '－', '−']
+-rrb-
+substitute word----------- -rrb-
+alessandro mazzola -lrb- born 8 november , 1942 -rrb- is a former italian football player .
+A marriage is null and void if it falls under any one of the following subparagraphs: Amended by Act No. 7427, Mar. 31, 2005
+originial word--------- subparagraphs
+['categories', 'criteria', 'types', 'rules', 'sections', 'guidelines', 'divisions', 'conditions', 'branches', 'classes']
+subparagraphs
+substitute word----------- criteria
+originial word--------- null
+['void', 'valid', 'binding', 'legal', 'unconstitutional', 'complete', 'mute', 'incomplete', 'blank', 'intact']
+null
+substitute word----------- void
+originial word--------- void
+['invalid', 'meaningless', 'vacant', 'unlawful', 'illicit', 'valid', 'doubtful', 'incomplete', 'illegal', 'null']
+void
+substitute word----------- invalid
+originial word--------- Amended
+['modified', 'revised', 'altered', 'updated', 'reformed', 'introduced', 'abolished', 'expanded', 'enacted', 'repealed']
+Amended
+substitute word----------- modified
+originial word--------- falls
+['is', 'comes', 'stands', 'lies', 'fell', 'sets', 'occurs', 'remains', 'fits', 'sits']
+falls
+substitute word----------- comes
+A marriage is void and invalid if it comes under any one of the following criteria : modified by Act No . 7427 , Mar . 31 , 2005
+Where there is no agreement to marry between the parties
+originial word--------- marry
+['wed', 'sue', 'divorce', 'contract', 'buy', 'meet', 'couple', 'match', 'kill', 'race']
+marry
+substitute word----------- meet
+originial word--------- agreement
+['arrangement', 'obligation', 'intention', 'announcement', 'understanding', 'contract', 'intent', 'idea', 'decision', 'accord']
+agreement
+substitute word----------- agreement
+Where there is no agreement to meet between the parties
+Where the marriage is in violation of Article 809 (1)
+originial word--------- violation
+['breach', 'contradiction', 'compliance', 'ignorance', 'betrayal', 'crime', 'accordance', 'maintenance', 'virtue', 'defiance']
+violation
+substitute word----------- violation
+Where the marriage is in violation of Article 809 ( 1 )
+Where there exists or existed between the parties the relationship of lineal relatives by affinity
+originial word--------- existed
+['was', 'occurred', 'acted', 'were', 'happened', 'held', 'remained', 'been', 'believed', 'is']
+existed
+substitute word----------- occurred
+originial word--------- relatives
+['cousins', 'ancestors', 'affinity', 'kin', 'siblings', 'families', 'kinship', 'grandparents', 'uncles', 'persons']
+relatives
+substitute word----------- relatives
+originial word--------- exists
+['is', 'occurs', 'lies', 'appears', 'occurred', 'happens', 'survives', 'operates', 'remains', 'resides']
+exists
+substitute word----------- is
+originial word--------- relationship
+['bond', 'link', 'situation', 'connection', 'partnership', 'status', 'match', 'arrangement', 'compound', 'group']
+relationship
+substitute word----------- relationship
+originial word--------- affinity
+['kinship', 'descent', 'inheritance', 'ancestry', 'association', 'succession', 'lineage', 'engagement', '.', 'surname']
+affinity
+substitute word----------- association
+originial word--------- lineal
+['distant', 'direct', 'the', 'male', 'collateral', 'family', 'biological', 'formal', 'terminal', 'female']
+lineal
+substitute word----------- distant
+Where there is or occurred between the parties the relationship of distant relatives by association
+Where there existed between the parties the relationship of lineal blood relatives of adoptive parent line.
+originial word--------- existed
+['was', 'occurred', 'arose', 'were', 'stood', 'lived', 'appeared', 'remained', 'happened', 'prevailed']
+existed
+substitute word----------- was
+originial word--------- relatives
+['cousins', 'families', 'members', 'ancestors', 'siblings', 'persons', 'grandparents', 'branches', 'connections', 'grandchildren']
+relatives
+substitute word----------- cousins
+originial word--------- adoptive
+['biological', 'the', 'american', 'alternative', 'foster', 'infant', 'institutional', 'adult', 'a', 'original']
+adoptive
+substitute word----------- the
+originial word--------- relationship
+['connection', 'bond', 'contact', 'union', 'friendship', 'association', 'identity', 'partnership', 'proximity', 'family']
+relationship
+substitute word----------- relationship
+originial word--------- lineal
+['direct', 'legal', 'full', 'the', 'blood', 'descent', 'family', 'natural', 'terminal', 'senior']
+lineal
+substitute word----------- direct
+Where there was between the parties the relationship of direct blood cousins of the parent line .
+Any person who is eighteen years old or older may enter into matrimony.
+originial word--------- matrimony
+['marriage', 'divorce', 'union', 'succession', 'adultery', 'partnership', 'intercourse', 'it', 'marrying', 'murder']
+matrimony
+substitute word----------- marriage
+Any person who is eighteen years old or older may enter into marriage .
+This Article Wholly Amended by Act No. 8720, Dec. 21, 2007
+originial word--------- Amended
+['modified', 'altered', 'revised', 'changed', 'affected', 'edited', 'adopted', 'amalgamated', 'influenced', 'enacted']
+Amended
+substitute word----------- modified
+originial word--------- Wholly
+['is', 'was', 'totally', 'partly', 'fully', 'entirely', 'substantially', 'altogether', 'completely', 'partially']
+Wholly
+substitute word----------- is
+originial word--------- Article
+['is', 'page', 'act', 'was', 'section', 'amended', 'book', 'text', 'information', 'list']
+Article
+substitute word----------- page
+This page is modified by Act No . 8720 , Dec. 21 , 2007
+A minor shall obtain the consent of both parents in order to marry. If one parent is unable to exercise the right of consent, the minor shall obtain the consent of the other parent, and if neither parent is able to exercise the right of consent, the minor shall obtain the consent of his or her guardian of minor.
+originial word--------- exercise
+['use', 'apply', 'obtain', 'acquire', 'perform', 'issue', 'maintain', 'practice', 'afford', 'act']
+exercise
+substitute word----------- use
+originial word--------- exercise
+['use', 'apply', 'maintain', 'gain', 'have', 'obtain', 'enforce', 'operate', 'extend', 'achieve']
+exercise
+substitute word----------- use
+originial word--------- guardian
+['parent', 'friend', 'ward', 'master', 'father', 'caretaker', 'partner', 'patron', 'mother', 'teacher']
+guardian
+substitute word----------- father
+originial word--------- obtain
+['gain', 'get', 'receive', 'have', 'seek', 'derive', 'achieve', 'acquire', 'require', 'secure']
+obtain
+substitute word----------- get
+originial word--------- consent
+['assent', 'permission', 'approval', 'agreement', 'cooperation', 'decision', 'assistance', 'certificate', 'accord', 'attention']
+consent
+substitute word----------- permission
+originial word--------- obtain
+['acquire', 'seek', 'gain', 'receive', 'require', 'achieve', 'derive', 'secure', 'get', 'gather']
+obtain
+substitute word----------- receive
+originial word--------- obtain
+['gain', 'get', 'acquire', 'seek', 'receive', 'secure', 'request', 'perform', 'achieve', 'purchase']
+obtain
+substitute word----------- get
+originial word--------- marry
+['wed', 'propose', 'apply', 'divorce', 'meet', 'match', 'double', 'husband', 'love', 'receive']
+marry
+substitute word----------- meet
+originial word--------- consent
+['permission', 'assent', 'approval', 'agreement', 'cooperation', 'support', 'attention', 'help', 'blessing', 'request']
+consent
+substitute word----------- permission
+originial word--------- consent
+['permission', 'assent', 'cooperation', 'approval', 'agreement', 'help', 'decision', 'assistance', 'license', 'support']
+consent
+substitute word----------- permission
+originial word--------- minor
+['child', 'youth', 'guardian', 'major', 'parent', 'principal', 'little', 'junior', 'adult', 'children']
+minor
+substitute word----------- major
+originial word--------- consent
+['assent', 'permission', 'approval', 'agreement', 'decision', 'choice', 'attention', 'licence', 'trust', 'cooperation']
+consent
+substitute word----------- permission
+originial word--------- consent
+['assent', 'permission', 'approval', 'licence', 'agreement', 'divorce', 'decision', 'license', 'attention', 'suffrage']
+consent
+substitute word----------- permission
+originial word--------- minor
+['child', 'youth', 'junior', 'teenager', 'juvenile', 'person', 'girl', 'boy', 'student', 'young']
+minor
+substitute word----------- child
+originial word--------- shall
+['will', 'may', 'must', 'is', 'should', 'would', 'can', '.', 'lays', 'to']
+shall
+substitute word----------- will
+originial word--------- minor
+['child', 'junior', 'subordinate', 'adult', 'major', 'juvenile', 'lesser', 'parent', 'baby', 'principal']
+minor
+substitute word----------- child
+originial word--------- shall
+['will', 'may', 'should', 'must', 'would', 'can', 'cannot', 'to', 'is', 'might']
+shall
+substitute word----------- will
+originial word--------- minor
+['child', 'principal', 'junior', 'major', 'lesser', 'small', 'cadet', 'subordinate', 'secondary', 'slight']
+minor
+substitute word----------- child
+originial word--------- shall
+['will', 'must', 'may', 'should', 'would', 'to', 'till', 'can', 'cannot', 'thereof']
+shall
+substitute word----------- must
+A child will receive the permission of both parents in order to meet . If one parent is unable to use the right of permission , the child must get the permission of the other parent , and if neither parent is able to use the right of permission , the child will get the permission of his or her father of major .
+An adult ward may marry upon obtaining the consent of his or her parents or adult guardian.
+originial word--------- obtaining
+['securing', 'gaining', 'achieving', 'acquiring', 'attaining', 'receiving', 'seeking', 'reaching', 'ensuring', 'collecting']
+obtaining
+substitute word----------- securing
+originial word--------- guardian
+['caretaker', 'parent', 'teacher', 'ward', 'friend', 'lawyer', 'protector', 'visitor', 'sibling', 'citizen']
+guardian
+substitute word----------- parent
+originial word--------- consent
+['permission', 'approval', 'assent', 'agreement', 'decision', 'supervision', 'request', 'help', 'decree', 'blessing']
+consent
+substitute word----------- permission
+originial word--------- marry
+['wed', 'couple', 'wife', 'match', 'mate', 'meet', 'husband', 'divorce', 'dub', 'join']
+marry
+substitute word----------- marry
+originial word--------- adult
+['age', 'older', 'animal', 'elderly', 'a', 'human', 'alternate', 'their', 'individual', 'adolescent']
+adult
+substitute word----------- older
+originial word--------- adult
+['older', 'alien', 'american', 'adolescent', 'additional', 'undergraduate', 'age', 'ordinary', 'eligible', 'unmarried']
+adult
+substitute word----------- older
+An older ward may marry upon securing the permission of his or her parents or older parent .
+This Article Wholly Amended by Act No. 10429, Mar. 7, 2011
+originial word--------- Amended
+['modified', 'altered', 'revised', 'updated', 'unchanged', 'replaced', 'superseded', 'enhanced', 'edited', 'remastered']
+Amended
+substitute word----------- modified
+originial word--------- Wholly
+['remainder', 'largely', 'entirely', 'fully', 'substantially', 'partly', 'subsequently', 'partially', 'significantly', 'is']
+Wholly
+substitute word----------- entirely
+originial word--------- Article
+['is', 'page', 'act', 'was', 'list', 'section', 'chapter', 'part', 'entry', 'table']
+Article
+substitute word----------- is
+This is entirely modified by Act No . 10429 , Mar . 7 , 2011
+A marriage may not be allowed between blood relatives (including the blood relatives of an adoptee before full adoption) within the eighth degree of relationship.
+originial word--------- adoption
+['adulthood', 'separation', 'childhood', 'attachment', 'orphanage', 'observation', 'absorption', 'marriage', 'adult', 'maturity']
+adoption
+substitute word----------- separation
+originial word--------- adoptee
+['orphan', 'immigrant', 'applicant', 'adult', 'child', 'parent', 'individual', 'initiate', 'recipient', 'infant']
+adoptee
+substitute word----------- orphan
+originial word--------- relatives
+['cousins', 'family', 'parents', 'siblings', 'families', 'parent', 'kin', 'ancestors', 'members', 'friends']
+relatives
+substitute word----------- relatives
+originial word--------- relatives
+['cousins', 'siblings', 'kin', 'persons', 'families', 'members', 'ancestors', 'descendants', 'brothers', 'family']
+relatives
+substitute word----------- relatives
+originial word--------- degree
+['level', 'family', 'branch', 'year', 'sense', 'chance', 'decade', 'root', 'form', 'law']
+degree
+substitute word----------- level
+originial word--------- relationship
+['partnership', 'association', 'marriage', 'union', 'kinship', 'family', 'meaning', 'proximity', 'attachment', 'connection']
+relationship
+substitute word----------- marriage
+A marriage may not be allowed between blood relatives ( including the blood relatives of an orphan before full separation ) within the eighth level of marriage .
+This paragraph was amended by Act No. 7427, March 31, 2005 pursuant to the decision of incompatibility with the Constitution which was made by the Constitutional Court on March 27, 1997
+originial word--------- incompatibility
+['interference', 'compatibility', 'equality', 'compliance', 'equivalence', 'affiliation', 'accommodation', 'integration', 'opposition', 'association']
+incompatibility
+substitute word----------- interference
+originial word--------- paragraph
+['section', 'chapter', 'clause', 'provision', 'phrase', 'memorandum', 'portion', 'sentence', 'statement', 'table']
+paragraph
+substitute word----------- section
+originial word--------- amended
+['altered', 'modified', 'revised', 'changed', 'edited', 'added', 'enhanced', 'updated', 'improved', 'reduced']
+amended
+substitute word----------- modified
+originial word--------- decision
+['determination', 'verdict', 'conviction', 'ruling', 'finding', 'discovery', 'judgment', 'result', 'case', 'fact']
+decision
+substitute word----------- determination
+originial word--------- pursuant
+['pertaining', 'subsequent', 'according', 'accordingly', 'prior', 'due', 'amendment', 'relating', 'corresponding', 'adjacent']
+pursuant
+substitute word----------- according
+This section was modified by Act No . 7427 , March 31 , 2005 according to the determination of interference with the Constitution which was made by the Constitutional Court on March 27 , 1997
+A marriage may not be allowed between the parties who are or were such relatives by affinity as the spouses of blood relatives within the sixth degree of relationship, the blood relatives of the spouse within the sixth degree of relationship, and the spouses of blood relatives of the spouse within the fourth degree of relationship.
+originial word--------- relatives
+['persons', 'families', 'characters', 'citizens', 'people', 'grandparents', 'siblings', 'friends', 'foreigners', 'figures']
+relatives
+substitute word----------- people
+originial word--------- relatives
+['siblings', 'cousins', 'ancestors', 'friends', 'associates', 'brothers', 'grandparents', 'members', 'companions', 'kin']
+relatives
+substitute word----------- friends
+originial word--------- relatives
+['grandparents', 'cousins', 'siblings', 'family', 'affinity', 'ancestors', 'kin', 'parents', 'friends', 'children']
+relatives
+substitute word----------- family
+originial word--------- relatives
+['cousins', 'families', 'grandparents', 'ancestors', 'siblings', 'persons', 'brothers', 'friends', 'competitors', 'kin']
+relatives
+substitute word----------- relatives
+originial word--------- degree
+['year', 'order', 'sex', 'kind', 'family', 'form', 'law', 'type', 'sense', 'place']
+degree
+substitute word----------- kind
+originial word--------- degree
+['order', 'sense', 'form', 'year', 'family', 'month', 'series', 'chance', 'body', 'decade']
+degree
+substitute word----------- sense
+originial word--------- spouses
+['parents', 'wives', 'union', 'wife', 'family', 'partners', 'relatives', 'marriage', 'unions', 'families']
+spouses
+substitute word----------- parents
+originial word--------- degree
+['level', 'order', 'family', 'sense', 'class', 'place', 'year', 'kind', 'form', 'dimension']
+degree
+substitute word----------- level
+originial word--------- affinity
+['association', 'kinship', 'attraction', 'relationship', 'extent', 'relation', 'activity', 'ancestry', 'agreement', 'marriage']
+affinity
+substitute word----------- association
+originial word--------- relationship
+['connection', 'contact', 'marriage', 'association', 'family', 'commitment', 'bond', 'correspondence', 'engagement', 'involvement']
+relationship
+substitute word----------- marriage
+originial word--------- relationship
+['marriage', 'family', 'association', 'affinity', 'partnership', 'kinship', 'connection', 'union', 'contact', 'closeness']
+relationship
+substitute word----------- marriage
+originial word--------- spouses
+['wives', 'children', 'relatives', 'parents', 'couples', 'partners', 'siblings', 'offspring', 'sons', 'grandchildren']
+spouses
+substitute word----------- children
+originial word--------- relationship
+['marriage', 'association', 'contact', 'family', 'union', 'correspondence', 'connection', 'distance', 'partnership', 'agreement']
+relationship
+substitute word----------- marriage
+originial word--------- spouse
+['wife', 'parent', 'husband', 'bride', 'fiancee', 'partner', 'householder', 'couple', 'lover', 'groom']
+spouse
+substitute word----------- wife
+originial word--------- spouse
+['groom', 'bride', 'husband', 'wife', 'fiancee', 'partner', 'parent', 'marriage', 'deceased', 'couple']
+spouse
+substitute word----------- wife
+A marriage may not be allowed between the parties who are or were such people by association as the parents of blood relatives within the sixth level of marriage , the blood family of the wife within the sixth sense of marriage , and the children of blood friends of the wife within the fourth kind of marriage .
+A marriage may not be allowed between the parties who were the blood relatives of adoptive parent line within the sixth degree of relationship and the affinity relatives of adoptive parent line within the fourth degree of relationship.
+originial word--------- relatives
+['cousins', 'friends', 'families', 'persons', 'kin', 'members', 'nephew', 'grandchildren', 'parents', 'grandparents']
+relatives
+substitute word----------- friends
+originial word--------- relatives
+['cousins', 'ancestors', 'kin', 'members', 'siblings', 'families', 'friends', 'groups', 'ties', 'sisters']
+relatives
+substitute word----------- relatives
+originial word--------- adoptive
+['biological', 'orphan', 'natural', 'original', 'foster', 'actual', 'unmarried', 'deceased', 'immigrant', 'expired']
+adoptive
+substitute word----------- biological
+originial word--------- adoptive
+['biological', 'the', 'adult', 'infant', 'maternal', 'parental', 'older', 'eternal', 'actual', 'unmarried']
+adoptive
+substitute word----------- biological
+originial word--------- degree
+['family', 'order', 'type', 'form', 'class', 'chance', 'level', 'series', 'sense', 'year']
+degree
+substitute word----------- family
+originial word--------- relationship
+['separation', 'family', 'marriage', 'kinship', 'connection', 'contact', 'association', 'proximity', 'correspondence', 'affinity']
+relationship
+substitute word----------- family
+originial word--------- degree
+['branch', 'place', 'level', 'family', 'form', 'generation', 'dimension', 'direction', 'order', 'year']
+degree
+substitute word----------- level
+originial word--------- relationship
+['association', 'connection', 'contact', 'bond', 'friendship', 'partnership', 'distance', 'correspondence', 'proximity', 'family']
+relationship
+substitute word----------- connection
+originial word--------- affinity
+['blood', 'other', 'collateral', 'kinship', 'living', 'adoptive', 'full', 'spouse', 'family', 'biological']
+affinity
+substitute word----------- other
+A marriage may not be allowed between the parties who were the blood relatives of biological parent line within the sixth level of connection and the other friends of biological parent line within the fourth family of family .
+This Article Wholly Amended by Act No. 7427, Mar. 31, 2005
+originial word--------- Amended
+['altered', 'modified', 'changed', 'revised', 'reformed', 'unchanged', 'updated', 'edited', 'improved', 'expanded']
+Amended
+substitute word----------- modified
+originial word--------- Wholly
+['substantially', 'partly', 'entirely', 'completely', 'largely', 'considerably', 'hugely', 'mainly', 'mostly', 'fully']
+Wholly
+substitute word----------- entirely
+originial word--------- Article
+['area', 'album', 'episode', 'encyclopedia', 'example', 'edition', 'assembly', 'is', 'application', 'office']
+Article
+substitute word----------- area
+This area entirely modified by Act No . 7427 , Mar . 31 , 2005
+No one who has a spouse shall enter into another marriage.
+originial word--------- spouse
+['wife', 'husband', 'surname', 'fugitive', 'parent', 'practitioner', 'householder', 'mole', 'partner', 'marriage']
+spouse
+substitute word----------- wife
+originial word--------- shall
+['may', 'will', 'can', 'should', 'must', 'labour', ',', 'cannot', 'would', 'which']
+shall
+substitute word----------- will
+No one who has a wife will enter into another marriage .
+Legal effect taken by relationship of relatives shall extend to the following persons unless this Act or other Acts provide otherwise:
+originial word--------- relationship
+['nature', 'partnership', 'family', 'value', 'contact', 'pair', 'behavior', 'character', 'difference', 'situation']
+relationship
+substitute word----------- family
+originial word--------- relatives
+['cousins', 'kin', 'siblings', 'parents', 'families', 'family', 'kinship', 'ancestors', 'cousin', 'lawyers']
+relatives
+substitute word----------- cousins
+originial word--------- persons
+['people', 'individuals', 'figures', 'peoples', ':', 'points', 'parties', 'things', ',', 'citizens']
+persons
+substitute word----------- persons
+originial word--------- extend
+['apply', 'allow', 'pass', 'expand', 'direct', 'relate', 'refer', 'continue', 'advance', 'go']
+extend
+substitute word----------- apply
+originial word--------- otherwise
+['elsewhere', 'else', 'explicitly', 'alternatively', 'generally', 'additional', 'except', 'anything', 'differently', 'either']
+otherwise
+substitute word----------- otherwise
+Legal effect taken by family of cousins shall apply to the following persons unless this Act or other Acts provide otherwise :
+Blood relatives within the eighth degree of relationship
+originial word--------- relatives
+['cousins', 'families', 'persons', 'siblings', 'members', 'catholics', 'contacts', 'peoples', 'branches', 'groups']
+relatives
+substitute word----------- relatives
+originial word--------- degree
+['sense', 'kind', 'law', 'family', 'form', 'order', 'set', 'branch', 'way', 'body']
+degree
+substitute word----------- kind
+originial word--------- relationship
+['kinship', 'association', 'bond', 'friendship', 'union', 'proximity', 'family', 'connection', 'dependence', 'closeness']
+relationship
+substitute word----------- relationship
+Blood relatives within the eighth kind of relationship
+Affinity relatives within the fourth degree of relationship
+originial word--------- relatives
+['cousins', 'families', 'kin', 'children', 'persons', 'siblings', 'family', 'friends', 'peoples', 'parents']
+relatives
+substitute word----------- relatives
+originial word--------- degree
+['sense', 'level', 'order', 'form', 'grade', 'faculty', 'kind', 'extent', 'family', 'course']
+degree
+substitute word----------- level
+originial word--------- relationship
+['partnership', 'family', 'connection', 'couple', 'proximity', 'friendship', 'association', 'contact', 'kinship', 'separation']
+relationship
+substitute word----------- family
+originial word--------- Affinity
+['close', 'kinship', 'distant', 'closest', 'relationship', 'closer', 'family', 'relatives', 'relative', 'other']
+Affinity
+substitute word----------- close
+close relatives within the fourth level of family
+Spouse.
+originial word--------- Spouse
+['husband', 'marriage', 'wife', 'marital', 'honeymoon', 'surname', 'couple', 'deceased', 'personality', 'relationship']
+Spouse
+substitute word----------- wife
+wife .
+This Article Wholly Amended by Act No. 4199, Jan. 13, 1990
+originial word--------- Amended
+['altered', 'edited', 'modified', 'reformed', 'unchanged', 'revised', 'updated', 'unconstitutional', 'influenced', 'evolved']
+Amended
+substitute word----------- altered
+originial word--------- Wholly
+['comprises', 'partly', 'entirely', 'is', 'altogether', 'totally', '¶', 'principally', 'predominantly', 'remainder']
+Wholly
+substitute word----------- entirely
+originial word--------- Article
+['area', 'ann', 'act', 'address', 'account', 'information', 'application', 'album', 'item', 'amount']
+Article
+substitute word----------- act
+This act entirely altered by Act No . 4199 , Jan. 13 , 1990
+If there exist such inheritors as provided in Article 1000 (1) 1 and 2, the spouse of the inheritee becomes a co-inheritor, in the same order as the said inheritor. If there exists no inheritor, the spouse becomes the sole inheritor. Amended by Act No. 4199, Jan. 13, 1990
+originial word--------- inheritor
+['heir', 'owner', 'parent', 'spouse', 'successor', 'proprietor', 'trustee', 'survivor', 'representative', 'ruler']
+inheritor
+substitute word----------- heir
+originial word--------- co-inheritor
+['spouse', 'partner', 'successor', 'parent', 'co', 'stepmother', 'member', 'couple', 'caretaker', 'nominee']
+co-inheritor
+substitute word----------- partner
+originial word--------- inheritors
+['individuals', 'parents', 'parties', 'heirs', 'owners', 'entities', ',', 'servants', 'persons', 'members']
+inheritors
+substitute word----------- parents
+originial word--------- inheritor
+['parent', 'spouse', 'person', 'one', 'wife', 'parents', 'family', 'individual', 'couple', 'husband']
+inheritor
+substitute word----------- parent
+originial word--------- inheritor
+['spouse', 'such', 'heir', 'one', 'offspring', 'husband', 'parent', 'children', 'parents', 'heirs']
+inheritor
+substitute word----------- heir
+originial word--------- exists
+['is', 'are', 'be', 'was', 'has', 'remains', 'being', 'a', 'occurs', 'does']
+exists
+substitute word----------- is
+originial word--------- Amended
+['enacted', 'introduced', 'altered', 'modified', 'revised', 'approved', 'added', 'repealed', 'updated', 'expanded']
+Amended
+substitute word----------- introduced
+originial word--------- sole
+['only', 'single', 'last', 'joint', 'exclusive', 'supreme', 'primary', 'lone', 'singular', 'alone']
+sole
+substitute word----------- only
+originial word--------- inheritee
+['spouse', 'parent', 'heir', 'individual', 'owner', 'deceased', 'victim', 'applicant', 'couple', 'plaintiff']
+inheritee
+substitute word----------- parent
+originial word--------- spouse
+['parent', 'husband', 'wife', 'groom', 'householder', 'stepfather', 'couple', 'son', 'mother', 'father']
+spouse
+substitute word----------- husband
+originial word--------- spouse
+['husband', 'wife', 'parent', 'mole', 'widow', 'fiancee', 'son', 'consort', 'partner', 'groom']
+spouse
+substitute word----------- wife
+originial word--------- exist
+['is', 'are', 'has', 'have', 'only', 'no', 'arise', 'presence', 'alone', 'occurs']
+exist
+substitute word----------- are
+originial word--------- provided
+['specified', 'stated', 'defined', 'found', 'granted', 'contained', 'described', 'supplied', 'given', 'designated']
+provided
+substitute word----------- found
+If there are such parents as found in Article 1000 ( 1 ) 1 and 2 , the wife of the parent becomes a partner , in the same order as the said parent . If there is no heir , the husband becomes the only heir . introduced by Act No . 4199 , Jan. 13 , 1990
+In the case mentioned in Article 1001, the spouse of the deceased or the disqualified person, before the commencement of inheritance, becomes a co-inheritor in the same order as the inheritors provided in the same Article. If there exists no inheritor, the spouse becomes the sole inheritor. Amended by Act No. 4199, Jan. 13, 1990
+originial word--------- disqualified
+['deceased', 'sentenced', 'divorced', 'expelled', 'detained', 'grounded', 'nominated', 'convicted', 'demoted', 'freed']
+disqualified
+substitute word----------- divorced
+originial word--------- co-inheritor
+['parent', 'successor', 'spouse', 'trustee', 'deceased', 'member', 'partner', 'minor', 'nominee', 'plaintiff']
+co-inheritor
+substitute word----------- parent
+originial word--------- commencement
+['conclusion', 'termination', 'beginning', 'suspension', 'duration', 'initiation', 'ceremony', 'continuation', 'qualification', 'construction']
+commencement
+substitute word----------- beginning
+originial word--------- inheritance
+['succession', 'estate', 'ownership', 'income', 'election', 'distribution', 'adoption', 'ancestry', 'evolution', 'execution']
+inheritance
+substitute word----------- estate
+originial word--------- inheritor
+['heir', 'owner', 'successor', 'heirs', 'recipient', 'winner', 'receiver', 'one', 'spouse', 'parent']
+inheritor
+substitute word----------- owner
+originial word--------- inheritors
+['one', 'ones', 'persons', 'others', 'person', 'individuals', 'other', 'heirs', 'individual', 'spouse']
+inheritors
+substitute word----------- ones
+originial word--------- deceased
+['dead', 'died', 'murdered', 'killed', 'fallen', 'departed', 'perished', 'death', 'lost', 'drowned']
+deceased
+substitute word----------- dead
+originial word--------- mentioned
+['listed', 'stated', 'named', 'discussed', 'cited', 'numbered', 'described', 'noted', 'called', 'referred']
+mentioned
+substitute word----------- mentioned
+originial word--------- inheritor
+['heir', 'spouse', 'offspring', 'incumbent', 'successor', 'owner', 'heirs', 'estate', 'heiress', 'alternative']
+inheritor
+substitute word----------- heir
+originial word--------- exists
+['is', 'are', 'appears', 'remains', 'occurs', 'has', 'lies', 'includes', 'alone', 'presence']
+exists
+substitute word----------- is
+originial word--------- spouse
+['fiancee', 'wife', 'husband', 'couple', 'partner', 'fiance', 'widow', 'consort', 'parent', 'sister']
+spouse
+substitute word----------- wife
+originial word--------- Amended
+['modified', 'changed', 'simplified', 'updated', 'abolished', 'revised', 'altered', 'introduced', 'governed', 'adopted']
+Amended
+substitute word----------- modified
+originial word--------- sole
+['only', 'primary', 'exclusive', 'single', 'lone', 'joint', 'main', 'first', 'last', 'chief']
+sole
+substitute word----------- only
+originial word--------- spouse
+['wife', 'parent', 'householder', 'husband', 'widow', 'consort', 'fiancee', 'couple', 'groom', 'partner']
+spouse
+substitute word----------- wife
+originial word--------- Article
+['order', 'section', 'act', 'agreement', 'area', 'case', 'chapter', 'page', 'state', 'category']
+Article
+substitute word----------- order
+originial word--------- provided
+['specified', 'stated', 'listed', 'defined', 'found', 'described', 'mentioned', 'contained', 'named', 'written']
+provided
+substitute word----------- found
+In the case mentioned in Article 1001 , the wife of the dead or the divorced person , before the beginning of estate , becomes a parent in the same order as the ones found in the same order . If there is no heir , the wife becomes the only owner . modified by Act No . 4199 , Jan. 13 , 1990
+Inherent property belonging to either husband or wife from the time before the marriage and property acquired during the marriage in his or her own name shall constitute his or her peculiar property.
+originial word--------- constitute
+['form', 'compose', 'comprise', 'represent', 'be', 'denote', 'count', 'make', 'declare', 'become']
+constitute
+substitute word----------- represent
+originial word--------- acquired
+['obtained', 'gained', 'accumulated', 'earned', 'attained', 'received', 'purchased', 'secured', 'owned', 'established']
+acquired
+substitute word----------- gained
+originial word--------- peculiar
+['unique', 'universal', 'distinctive', 'special', 'own', 'characteristic', 'personal', 'particular', 'common', 'usual']
+peculiar
+substitute word----------- unique
+originial word--------- shall
+['will', 'may', 'respectively', ',', 'and', 'must', 'whereby', 'to', 'which', 'should']
+shall
+substitute word----------- will
+originial word--------- belonging
+['according', 'pertaining', 'owning', 'referring', 'assigned', 'relating', 'going', 'existing', 'due', 'holding']
+belonging
+substitute word----------- owning
+originial word--------- Inherent
+['the', 'and', 'all', 'any', 'only', 'intrinsic', 'but', 'except', 'every', ':']
+Inherent
+substitute word----------- the
+the property owning to either husband or wife from the time before the marriage and property gained during the marriage in his or her own name will represent his or her unique property .
+Any property, of which title is uncertain between the husband and wife, shall be presumed to be in their co-ownership. Amended by Act No. 3051, Dec. 31, 1977
+originial word--------- presumed
+['assumed', 'deemed', 'considered', 'regarded', 'suspected', 'perceived', 'believed', 'thought', 'mistaken', 'recovered']
+presumed
+substitute word----------- assumed
+originial word--------- co-ownership
+['co', 'ownership', 'possession', 'care', 'custody', 'property', 'control', 'charge', 'operation', 'joint']
+co-ownership
+substitute word----------- possession
+originial word--------- uncertain
+['unknown', 'doubtful', 'unsure', 'ambiguous', 'vacant', 'apparent', 'indefinite', 'uneasy', 'assured', 'confused']
+uncertain
+substitute word----------- unknown
+originial word--------- Amended
+['introduced', 'altered', 'expanded', 'updated', 'enacted', 'adopted', 'revised', 'repealed', 'incorporated', 'elaborated']
+Amended
+substitute word----------- introduced
+originial word--------- shall
+['may', 'will', 'must', 'should', 'can', 'would', 'cannot', 'to', 'et', 'might']
+shall
+substitute word----------- must
+Any property , of which title is unknown between the husband and wife , must be assumed to be in their possession . introduced by Act No . 3051 , Dec. 31 , 1977
+If, with respect to normal home affairs, one spouse has effected a juristic act with a third person, the other spouse shall be jointly and severally liable for the obligation therefrom: Provided, That this shall not apply where a previous notice, to the effect that the other spouse will not assume such liability, has been clearly given to the third person.
+originial word--------- obligation
+['responsibility', 'liability', 'duty', 'debt', 'expectation', 'commitment', 'burden', 'necessity', 'agreement', 'amount']
+obligation
+substitute word----------- responsibility
+originial word--------- juristic
+['legal', 'judicial', 'legislative', 'statutory', 'joint', 'certain', 'criminal', 'domestic', 'civil', 'contractual']
+juristic
+substitute word----------- legal
+originial word--------- effected
+['executed', 'accomplished', 'enacted', 'attempted', 'done', 'affected', 'achieved', 'undertaken', 'completed', 'made']
+effected
+substitute word----------- done
+originial word--------- assume
+['adopt', 'take', 'accept', 'execute', 'undertake', 'carry', 'exercise', 'conclude', 'embrace', 'introduce']
+assume
+substitute word----------- accept
+originial word--------- spouse
+['wife', 'parent', 'husband', 'couple', 'bride', 'consort', 'householder', 'fiancee', 'widow', 'marriage']
+spouse
+substitute word----------- wife
+originial word--------- therefrom
+['here', 'where', 'of', 'due', 'within', '.', 'to', 'thus', 'itself', 'at']
+therefrom
+substitute word----------- here
+originial word--------- liability
+['responsibility', 'duty', 'obligation', 'guilt', 'injury', 'fault', 'credit', 'debt', 'negligence', 'jurisdiction']
+liability
+substitute word----------- responsibility
+originial word--------- severally
+['similarly', 'successively', 'subsequently', 'collectively', 'ultimately', 'repeatedly', 'individually', 'separately', 'largely', 'again']
+severally
+substitute word----------- individually
+originial word--------- spouse
+['person', 'partner', 'wife', 'parent', 'husband', 'participant', 'party', 'member', 'individual', 'one']
+spouse
+substitute word----------- person
+originial word--------- shall
+['will', 'is', 'may', 'does', 'must', 'should', 'labour', 'need', 'dare', 'would']
+shall
+substitute word----------- will
+originial word--------- respect
+['regard', 'attention', 'application', 'consideration', 'reference', 'rights', 'access', 'regards', 'relation', 'right']
+respect
+substitute word----------- regard
+originial word--------- previous
+['prior', 'current', 'new', 'written', 'subsequent', 'recent', 'past', 'former', 'similar', 'separate']
+previous
+substitute word----------- recent
+originial word--------- spouse
+['wife', 'husband', 'couple', 'person', 'parent', 'fiancee', 'consort', 'participant', 'seaman', 'householder']
+spouse
+substitute word----------- wife
+originial word--------- shall
+['will', 'may', 'must', 'would', 'cannot', 'should', 'can', 'is', 'comprises', 'to']
+shall
+substitute word----------- will
+originial word--------- jointly
+['collectively', 'simultaneously', 'concurrently', 'successively', 'separately', 'similarly', 'independently', 'subsequently', 'alternately', 'privately']
+jointly
+substitute word----------- simultaneously
+originial word--------- liable
+['responsible', 'accountable', 'forgiven', 'applicable', 'sentenced', 'responsibility', 'blamed', 'accounted', 'assigned', 'entitled']
+liable
+substitute word----------- responsible
+If , with regard to normal home affairs , one wife has done a legal act with a third person , the other wife will be simultaneously and individually responsible for the responsibility here : Provided , That this will not apply where a recent notice , to the effect that the other person will not accept such responsibility , has been clearly given to the third person .
+The expenses necessary for communal life of husband and wife shall be jointly and severally borne by them, unless a special stipulation has been made between them.
+originial word--------- stipulation
+['agreement', 'provision', 'arrangement', 'transaction', 'deal', 'distinction', 'contract', 'charge', 'condition', 'settlement']
+stipulation
+substitute word----------- agreement
+originial word--------- severally
+['similarly', 'subsequently', 'largely', 'reportedly', 'frequently', 'shortly', 'while', 'briefly', 'widely', 'five']
+severally
+substitute word----------- subsequently
+originial word--------- communal
+['collective', 'the', 'marital', 'joint', 'shared', 'unitary', 'cooperative', 'collaborative', 'household', 'reciprocal']
+communal
+substitute word----------- collective
+originial word--------- borne
+['carried', 'taken', 'shared', 'spread', 'avoided', 'worked', 'done', 'worn', 'handled', 'breathed']
+borne
+substitute word----------- taken
+originial word--------- expenses
+['costs', 'amounts', 'risks', 'sums', 'events', 'accounts', 'losses', 'things', 'objects', 'assets']
+expenses
+substitute word----------- costs
+originial word--------- jointly
+['collectively', 'simultaneously', 'concurrently', 'solely', 'privately', 'together', 'shared', 'unanimously', 'separately', 'sufficiently']
+jointly
+substitute word----------- simultaneously
+The costs necessary for collective life of husband and wife shall be simultaneously and subsequently taken by them , unless a special agreement has been made between them .
+This Article Wholly Amended by Act No. 4199, Jan. 13, 1990
+originial word--------- Amended
+['altered', 'modified', 'edited', 'changed', 'enhanced', 'unchanged', 'revised', 'upgraded', 'evolved', 'added']
+Amended
+substitute word----------- modified
+originial word--------- Wholly
+['is', 'fully', 'remainder', 'was', 'entirely', 'partly', 'proportion', 'majority', 'allegedly', 'subsequently']
+Wholly
+substitute word----------- is
+originial word--------- Article
+['page', 'is', 'advertisement', 'assembly', 'section', 'list', 'chapter', 'entry', 'act', 'edition']
+Article
+substitute word----------- page
+This page is modified by Act No . 4199 , Jan. 13 , 1990
+A claim to the court for annulment of a marriage may be made under any one of the following subparagraphs: Amended by Act No. 4199, Jan. 13, 1990 Act No. 7427, Mar. 31, 2005
+originial word--------- subparagraphs
+['sections', 'provisions', 'categories', 'statutes', 'procedures', 'rules', 'circumstances', 'laws', 'amendments', 'conditions']
+subparagraphs
+substitute word----------- provisions
+originial word--------- annulment
+['dissolution', 'cancellation', 'void', 'recognition', 'termination', 'consideration', 'validity', 'prohibition', 'separation', 'maintenance']
+annulment
+substitute word----------- recognition
+originial word--------- Amended
+['modified', 'enacted', 'revised', 'altered', 'updated', 'adopted', 'introduced', 'changed', 'approved', 'regulated']
+Amended
+substitute word----------- modified
+originial word--------- claim
+['request', 'complaint', 'petition', 'case', 'lawsuit', 'challenge', 'protest', 'contribution', 'call', 'motion']
+claim
+substitute word----------- request
+A request to the court for recognition of a marriage may be made under any one of the following provisions : modified by Act No . 4199 , Jan. 13 , 1990 Act No . 7427 , Mar . 31 , 2005
+Where a marriage is in violation of the provisions of Articles 807 through 809 (excluding the cases falling under the nullity of marriage under Article 815 hereafter in Articles 817 and 820 the same shall apply) or 810
+originial word--------- violation
+['breach', 'crime', 'ignorance', 'disregard', 'compliance', 'enforcement', 'infringement', 'contradiction', 'failure', 'solution']
+violation
+substitute word----------- breach
+originial word--------- provisions
+['regulations', 'violations', 'sections', 'implications', 'clauses', 'obligations', 'requirements', 'duties', 'components', 'policies']
+provisions
+substitute word----------- regulations
+originial word--------- excluding
+['including', 'comprising', 'eliminating', 'counting', 'avoiding', 'notwithstanding', 'denying', 'ignoring', 'removing', 'implying']
+excluding
+substitute word----------- including
+originial word--------- hereafter
+['.', ',', 'and', ';', ':', 'because', 'where', ')', 'but', '(']
+hereafter
+substitute word----------- and
+originial word--------- nullity
+['void', 'necessity', 'negative', 'absence', 'nix', 'deprivation', 'failure', 'validity', 'cancellation', 'lack']
+nullity
+substitute word----------- void
+originial word--------- Articles
+['acts', 'the', 'clauses', 'rules', 'sections', 'opus', 'orders', 'years', 'august', 'provisions']
+Articles
+substitute word----------- rules
+originial word--------- shall
+['may', 'will', 'must', 'should', 'would', 'cannot', 'could', 'can', 'might', 'thereof']
+shall
+substitute word----------- will
+originial word--------- apply
+['occur', 'air', 'exist', 'matter', 'adhere', 'use', 'refer', 'act', 'happen', 'practice']
+apply
+substitute word----------- use
+Where a marriage is in breach of the regulations of rules 807 through 809 ( including the cases falling under the void of marriage under Article 815 and in Articles 817 and 820 the same will use ) or 810
+When at the time of marriage one of the parties was unaware that the other party had been suffering from a malignant disease or had any other serious reason which would make marital life unable to continue
+originial word--------- suffering
+['learning', 'recovering', 'dying', 'healing', 'hearing', 'having', 'drinking', 'feeling', 'living', 'away']
+suffering
+substitute word----------- dying
+originial word--------- disease
+['illness', 'condition', 'cancer', 'cause', 'sickness', 'problem', 'tumor', 'epidemic', 'syndrome', 'child']
+disease
+substitute word----------- illness
+originial word--------- unaware
+['assured', 'aware', 'notified', 'informed', 'ignorance', 'awareness', 'discovered', 'ignorant', 'acknowledged', 'unsure']
+unaware
+substitute word----------- aware
+originial word--------- malignant
+['cancer', 'rare', 'benign', 'genetic', 'noble', 'notorious', 'parasitic', 'serious', 'fatal', 'primary']
+malignant
+substitute word----------- cancer
+originial word--------- marital
+['collegiate', 'fetal', 'sexual', 'spouse', 'bilateral', 'personal', 'lifelong', 'heterosexual', 'weekly', 'family']
+marital
+substitute word----------- personal
+When at the time of marriage one of the parties was aware that the other party had been dying from a cancer illness or had any other serious reason which would make personal life unable to continue
+When the declaration of intention to marry has been made by fraud or duress.
+originial word--------- fraud
+['theft', 'manipulation', 'deception', 'bribery', 'blackmail', 'crime', 'slavery', 'ruse', 'murder', 'trick']
+fraud
+substitute word----------- fraud
+originial word--------- declaration
+['proclamation', 'statement', 'announcement', 'profession', 'document', 'determination', 'display', 'letter', 'form', 'disclosure']
+declaration
+substitute word----------- statement
+originial word--------- intention
+['agreement', 'purpose', 'attempt', 'engagement', 'effect', 'about', 'ability', 'desire', 'permission', 'employment']
+intention
+substitute word----------- purpose
+originial word--------- marry
+['wed', 'match', 'couple', 'meet', 'separate', 'mate', 'receive', 'wife', 'sell', 'move']
+marry
+substitute word----------- meet
+originial word--------- duress
+['du', 'fraud', 'debt', 'danger', 'distress', 'ruin', 'deception', 'trouble', 'disability', 'disorder']
+duress
+substitute word----------- fraud
+When the statement of purpose to meet has been made by fraud or fraud .
+The annulment of a marriage shall not be retrospectively effective.
+originial word--------- retrospectively
+['historically', 'posthumously', 'locally', 'subsequently', 'directly', 'similarly', 'fully', 'legally', 'globally', 'jointly']
+retrospectively
+substitute word----------- fully
+originial word--------- annulment
+['dissolution', 'termination', 'ending', 'end', 'divorce', 'agreement', 'cancellation', 'breakup', 'conclusion', 'arrangement']
+annulment
+substitute word----------- divorce
+originial word--------- shall
+['may', 'will', 'should', 'must', 'is', 'april', 'would', 'morality', 'cannot', 'does']
+shall
+substitute word----------- will
+originial word--------- effective
+['applied', 'enforced', 'active', 'ineffective', 'apparent', 'operational', 'functional', 'expressed', 'existent', 'able']
+effective
+substitute word----------- active
+The divorce of a marriage will not be fully active .
+The lineal ascendants of a parent who does not foster children may request the Family Court to grant visitation with the children, where the parent is unable to visit the children due to death or any other extenuating circumstance such as illness and residency abroad. In such cases, the Family Court shall take into consideration circumstances such as the intent of the children, the relationship between the requesting person and the children, and the reasons for the request. Newly Inserted by Act No. 14278, Dec. 2, 2016
+originial word--------- consideration
+['account', 'review', 'discussion', 'comparison', 'the', 'charge', 'stock', 'include', 'foot', 'present']
+consideration
+substitute word----------- account
+originial word--------- circumstances
+['conditions', 'factors', 'situations', 'matters', 'cases', 'facts', 'constraints', 'difficulties', 'details', 'occasions']
+circumstances
+substitute word----------- circumstances
+originial word--------- circumstance
+['condition', 'situation', 'factor', 'event', 'fact', 'behavior', 'occasion', 'cause', 'nature', 'moment']
+circumstance
+substitute word----------- situation
+originial word--------- visitation
+['detention', 'retention', 'vacation', 'custody', 'residence', 'possession', 'residency', 'transportation', 'intervention', 'consolidation']
+visitation
+substitute word----------- custody
+originial word--------- intent
+['purpose', 'orientation', 'attendance', 'arrival', 'absence', 'desire', 'activity', 'immigration', 'instruction', 'attention']
+intent
+substitute word----------- purpose
+originial word--------- extenuating
+['such', 'other', 'unusual', 'significant', 'adverse', 'similar', 'relevant', 'acute', 'different', 'abnormal']
+extenuating
+substitute word----------- such
+originial word--------- ascendants
+['parents', 'grandparents', 'infants', 'siblings', 'as', 'members', 'children', 'relatives', 'ancestors', 'heirs']
+ascendants
+substitute word----------- parents
+originial word--------- requesting
+['seeking', 'referencing', 'visiting', 'ordering', 'collecting', 'describing', 'receiving', 'demanding', 'granting', 'controlling']
+requesting
+substitute word----------- receiving
+originial word--------- Inserted
+['introduced', 'incorporated', 'enacted', 'amended', 'adopted', 'imposed', 'added', 'inducted', 'implemented', 'injected']
+Inserted
+substitute word----------- introduced
+originial word--------- relationship
+['partnership', 'association', 'connection', 'contact', 'behavior', 'difference', 'bond', 'situation', 'history', 'position']
+relationship
+substitute word----------- relationship
+originial word--------- residency
+['relocation', 'detention', 'anchorage', 'imprisonment', 'membership', 'dependence', 'arrival', 'captivity', 'tenure', 'rehabilitation']
+residency
+substitute word----------- detention
+originial word--------- foster
+['raise', 'adopt', 'have', 'host', 'treat', 'own', 'birth', 'mentor', 'parent', 'create']
+foster
+substitute word----------- raise
+originial word--------- illness
+['disease', 'sickness', 'injury', 'health', 'impairment', 'age', 'infection', 'insanity', 'death', 'epidemic']
+illness
+substitute word----------- sickness
+originial word--------- abroad
+['overseas', 'outside', 'elsewhere', 'internationally', 'away', 'alone', 'absent', 'offshore', 'foreigners', 'foreigner']
+abroad
+substitute word----------- abroad
+originial word--------- grant
+['request', 'permit', 'decree', 'allow', 'award', 'provide', 'mandate', 'order', 'force', 'offer']
+grant
+substitute word----------- grant
+originial word--------- shall
+['will', 'may', 'must', 'can', ',', 'to', 'cannot', 'should', 'would', 'is']
+shall
+substitute word----------- will
+originial word--------- lineal
+['lateral', 'female', 'collateral', 'senior', 'terminal', 'term', 'following', 'hereditary', 'family', '"']
+lineal
+substitute word----------- female
+originial word--------- request
+['demand', 'petition', 'claim', 'desire', 'visit', 'visitation', 'need', 'return', 'command', 'quest']
+request
+substitute word----------- demand
+The female parents of a parent who does not raise children may request the Family Court to grant custody with the children , where the parent is unable to visit the children due to death or any other such situation such as sickness and detention abroad . In such cases , the Family Court will take into account circumstances such as the purpose of the children , the relationship between the receiving person and the children , and the reasons for the demand . Newly introduced by Act No . 14278 , Dec. 2 , 2016
+Husband and wife may get a divorce by agreement.
+originial word--------- divorce
+['separation', 'decree', 'dissolution', 'discharge', 'release', 'marriage', 'vacation', 'split', 'dismissal', 'family']
+divorce
+substitute word----------- divorce
+originial word--------- agreement
+['arrangement', 'consent', 'exception', 'contract', 'treaty', 'adoption', 'decision', 'obligation', 'option', 'office']
+agreement
+substitute word----------- agreement
+Husband and wife may get a divorce by agreement .
+Either husband or wife may apply to the Family Court for a divorce in each case of the following subparagraphs: Amended by Act No. 4199, Jan. 13, 1990
+originial word--------- subparagraphs
+['cases', 'categories', 'types', 'proceedings', 'components', 'documents', 'criteria', 'definitions', 'examples', 'sections']
+subparagraphs
+substitute word----------- cases
+originial word--------- divorce
+['dissolution', 'dismissal', 'discharge', 'decree', 'separation', 'marriage', 'reconciliation', 'lawsuit', 'parole', 'license']
+divorce
+substitute word----------- marriage
+originial word--------- Amended
+['revised', 'modified', 'changed', 'altered', 'updated', 'mandated', 'expanded', 'simplified', 'evolved', 'adapted']
+Amended
+substitute word----------- modified
+originial word--------- following
+['below', 'preceding', 'previous', 'these', 'above', 'aforementioned', 'accompanying', 'same', 'resulting', ':']
+following
+substitute word----------- these
+originial word--------- apply
+['petition', 'suit', 'claim', 'qualify', 'eligible', 'refer', 'reach', 'aim', 'account', 'allow']
+apply
+substitute word----------- apply
+Either husband or wife may apply to the Family Court for a marriage in each case of the these cases : modified by Act No . 4199 , Jan. 13 , 1990
+If the other spouse has committed an act of unchastity
+originial word--------- unchastity
+['adultery', 'betrayal', 'cruelty', 'violence', 'negligence', 'rape', 'jealousy', 'weakness', 'abandonment', 'abuse']
+unchastity
+substitute word----------- adultery
+originial word--------- committed
+['contracted', 'undertaken', 'done', 'performed', 'confessed', 'carried', 'declared', 'signed', 'sworn', 'concluded']
+committed
+substitute word----------- done
+originial word--------- spouse
+['wife', 'husband', 'parent', 'householder', 'homosexual', 'fiancee', 'registrar', 'widow', 'bride', 'couple']
+spouse
+substitute word----------- wife
+If the other wife has done an act of adultery
+If one spouse has been maliciously deserted by the other spouse
+originial word--------- maliciously
+['deliberately', 'intentionally', 'purposely', 'permanently', 'similarly', 'successfully', 'legally', 'illegally', 'accidentally', 'forcibly']
+maliciously
+substitute word----------- deliberately
+originial word--------- deserted
+['abandoned', 'divorced', 'manned', 'ignored', 'betrayed', 'murdered', 'rejected', 'stolen', 'robbed', 'evicted']
+deserted
+substitute word----------- abandoned
+originial word--------- spouse
+['wife', 'couple', 'husband', 'parent', 'sex', 'marriage', 'adult', 'person', 'bride', 'household']
+spouse
+substitute word----------- wife
+originial word--------- spouse
+['.', ',', ';', 'parent', 'husband', 'wife', 'counterpart', ')', 'lover', 'one']
+spouse
+substitute word----------- husband
+If one wife has been deliberately abandoned by the other husband
+If one spouse has been extremely maltreated by the other spouse or his or her lineal ascendants
+originial word--------- maltreated
+['favoured', 'disturbed', 'treated', 'damaged', 'attacked', 'neglected', 'harmed', 'distressed', 'frightened', 'suppressed']
+maltreated
+substitute word----------- treated
+originial word--------- extremely
+['severely', 'incredibly', 'intensely', 'greatly', 'highly', 'significantly', 'aggressively', 'seriously', 'exceptionally', 'especially']
+extremely
+substitute word----------- severely
+originial word--------- spouse
+['couple', 'wife', 'husband', 'parent', 'partner', 'consort', 'gender', 'marriage', 'householder', 'client']
+spouse
+substitute word----------- wife
+originial word--------- ascendants
+['relatives', 'counterparts', 'ancestors', 'as', 'allies', '.', 'opponents', 'successors', 'sisters', 'siblings']
+ascendants
+substitute word----------- ancestors
+originial word--------- lineal
+['family', 'female', 'relative', 'own', 'male', 'natural', 'other', 'collateral', 'genetic', 'genealogical']
+lineal
+substitute word----------- own
+originial word--------- spouse
+['parent', 'wife', 'husband', 'counterpart', 'party', 'couple', 'one', 'widow', 'sibling', 'fraction']
+spouse
+substitute word----------- wife
+If one wife has been severely treated by the other wife or his or her own ancestors
+If one spouse's lineal ascendant has been extremely maltreated by the other spouse
+originial word--------- extremely
+['severely', 'immensely', 'equally', 'incredibly', 'highly', 'greatly', 'overly', 'overwhelmingly', 'intensely', 'often']
+extremely
+substitute word----------- equally
+originial word--------- maltreated
+['attacked', 'affected', 'disturbed', 'damaged', 'harmed', 'neglected', 'injured', 'exploited', 'endangered', 'wounded']
+maltreated
+substitute word----------- attacked
+originial word--------- spouse
+['parent', 'wife', 'partner', 'couple', 'husband', 'marriage', 'bride', 'sibling', 'adult', 'groom']
+spouse
+substitute word----------- partner
+originial word--------- ascendant
+['ancestor', 'line', 'descendant', 'descent', 'ancestry', 'equivalent', 'heir', 'relative', 'rival', 'succession']
+ascendant
+substitute word----------- descendant
+originial word--------- lineal
+['family', 'female', 'direct', '-', 'indirect', 'hereditary', 'senior', 'descent', 'descendant', 'original']
+lineal
+substitute word----------- female
+originial word--------- spouse
+['wife', 'husband', 'parent', 'fiancee', 'widow', 'couple', 'marriage', 'one', 'partner', 'counterpart']
+spouse
+substitute word----------- husband
+If one partner 's female descendant has been equally attacked by the other husband
+If the death or life of the other spouse has been unknown for three years
+originial word--------- spouse
+['couple', 'parent', 'wife', 'husband', 'partner', 'one', 'fiancee', 'adult', 'bride', 'person']
+spouse
+substitute word----------- wife
+originial word--------- unknown
+['known', 'estimated', 'lost', 'identified', 'unclear', 'established', 'hidden', 'uncertain', 'mystery', 'determined']
+unknown
+substitute word----------- known
+If the death or life of the other wife has been known for three years
+If there exists any other serious cause for making it difficult to continue the marriage.
+originial word--------- exists
+['is', 'lies', 'has', 'appears', 'runs', 'comes', 'owns', 'includes', 'resides', 'reigns']
+exists
+substitute word----------- is
+If there is any other serious cause for making it difficult to continue the marriage .
+Article 806 shall apply mutatis mutandis to the claims for damages from a judicial divorce, Article 837 to the responsibility of parenting children following a judicial divorce, Article 837-2 to the visitation rights following a judicial divorce, Article 839-2 to the claim for division of property following a judicial divorce, and Article 839-3 to the right to cancel a fraudulent act for the purpose of preserving the claims for division of property following judicial divorce.
+originial word--------- preserving
+['maintaining', 'retaining', 'saving', 'protecting', 'defending', 'restoring', 'sustaining', 'keeping', 'managing', 'securing']
+preserving
+substitute word----------- maintaining
+originial word--------- responsibility
+['accountability', 'burden', 'obligation', 'scope', 'task', 'competence', 'oversight', 'obligations', 'supervision', 'involvement']
+responsibility
+substitute word----------- obligation
+originial word--------- visitation
+['custody', 'parenting', 'divorce', 'residency', 'detention', 'separation', 'residence', 'adoption', 'abduction', 'succession']
+visitation
+substitute word----------- custody
+originial word--------- damages
+['compensation', 'claims', 'losses', 'repairs', 'injuries', 'retribution', 'relief', 'consequences', 'retaliation', 'tears']
+damages
+substitute word----------- compensation
+originial word--------- mutandis
+['juris', 'ratio', 'bonus', 'status', 'dei', 'damages', 'media', 'corpus', 'sum', 'justice']
+mutandis
+substitute word----------- ratio
+originial word--------- judicial
+['court', 'legal', 'supreme', 'bench', 'divorce', 'civil', 'royal', 'joint', 'statutory', 'legislative']
+judicial
+substitute word----------- legal
+originial word--------- judicial
+['legal', 'military', 'legislative', 'court', 'supreme', 'female', 'statutory', 'criminal', 'royal', 'maternal']
+judicial
+substitute word----------- legal
+originial word--------- mutatis
+['lex', 'res', 'the', 'juris', 'corpus', ':', 'writ', 'ratio', 'forum', 'a']
+mutatis
+substitute word----------- lex
+originial word--------- purpose
+['use', 'goal', 'point', 'reason', 'benefit', 'meaning', 'content', 'case', 'process', 'function']
+purpose
+substitute word----------- reason
+originial word--------- judicial
+['legal', 'criminal', 'legislative', 'court', 'statutory', 'bench', 'divorce', 'civil', 'supreme', 'military']
+judicial
+substitute word----------- legal
+originial word--------- judicial
+['legal', 'court', 'royal', 'legislative', 'civil', 'criminal', 'governmental', 'military', 'municipal', 'residential']
+judicial
+substitute word----------- legal
+originial word--------- parenting
+['raising', 'teaching', 'upbringing', 'mentoring', 'watching', 'planting', 'brooding', 'protecting', 'ruling', 'the']
+parenting
+substitute word----------- raising
+originial word--------- divorce
+['separation', 'marriage', 'dissolution', 'decree', 'visitation', 'wedding', 'breakup', 'split', 'adoption', 'discharge']
+divorce
+substitute word----------- marriage
+originial word--------- divorce
+['separation', 'marriage', 'decree', 'dissolution', 'pregnancy', 'breakup', 'spouse', 'wedding', 'split', 'abortion']
+divorce
+substitute word----------- marriage
+originial word--------- claims
+['charges', 'grounds', 'allegations', 'matters', 'measures', 'rights', 'cases', 'damages', 'complaints', 'causes']
+claims
+substitute word----------- charges
+originial word--------- divorce
+['separation', 'dissolution', 'marriage', 'decree', 'breakup', 'discharge', 'reconciliation', 'decision', 'procedure', 'relationship']
+divorce
+substitute word----------- marriage
+originial word--------- divorce
+['separation', 'marriage', 'dissolution', 'decree', 'split', 'discharge', 'breakup', 'reconciliation', 'pregnancy', 'disqualification']
+divorce
+substitute word----------- marriage
+originial word--------- judicial
+['legal', 'the', 'justice', 'court', 'joint', 'a', 'june', 'bench', 'divorce', 'supreme']
+judicial
+substitute word----------- legal
+originial word--------- divorce
+['separation', 'dissolution', 'marriage', 'decree', 'visitation', 'dismissal', 'breakup', 'succession', 'disposition', 'decision']
+divorce
+substitute word----------- separation
+originial word--------- division
+['separation', 'subdivision', 'title', 'section', 'reduction', 'distribution', 'portion', 'part', 'sale', 'treatment']
+division
+substitute word----------- division
+originial word--------- claims
+['rights', 'reasons', 'grounds', 'cases', 'right', 'causes', 'titles', 'marks', 'demands', 'charges']
+claims
+substitute word----------- reasons
+originial word--------- claim
+['suit', 'case', 'petition', 'lawsuit', 'demand', 'charge', 'right', 'account', 'struggle', 'request']
+claim
+substitute word----------- case
+originial word--------- division
+['sale', 'subdivision', 'separation', 'part', 'loss', 'reduction', 'distribution', 'determination', 'possession', 'collection']
+division
+substitute word----------- division
+Article 806 shall apply lex ratio to the charges for compensation from a legal marriage , Article 837 to the obligation of raising children following a legal marriage , Article 837-2 to the custody rights following a legal marriage , Article 839-2 to the case for division of property following a legal marriage , and Article 839-3 to the right to cancel a fraudulent act for the reason of maintaining the reasons for division of property following legal separation .
+This Article Wholly Amended by Act No. 11300, Feb. 10, 2012
+originial word--------- Amended
+['altered', 'modified', 'revised', 'changed', 'enhanced', 'replaced', 'superseded', 'affected', 'edited', 'adjusted']
+Amended
+substitute word----------- modified
+originial word--------- Wholly
+['fully', 'totally', 'completely', 'was', 'entirely', 'is', 'partly', 'largely', 'solely', 'partially']
+Wholly
+substitute word----------- totally
+originial word--------- Article
+['assembly', 'is', 'was', 'act', 'agreement', 'area', 'page', 'address', 'section', 'episode']
+Article
+substitute word----------- is
+This is totally modified by Act No . 11300 , Feb. 10 , 2012
+A lease becomes effective when one of the parties has agreed to allow the other party to use an object and take profits therefrom, and the latter has agreed to pay rent for it.
+originial word--------- rent
+['lease', 'compensation', 'cost', 'money', 'wages', 'it', 'notice', 'profit', 'tax', 'tenant']
+rent
+substitute word----------- money
+originial word--------- therefrom
+['from', 'elsewhere', 'hence', 'beforehand', 'afterwards', 'accordingly', 'thus', 'it', 'on', 'together']
+therefrom
+substitute word----------- from
+originial word--------- profits
+['it', 'benefits', 'incomes', 'revenues', 'fortunes', 'gains', 'operations', 'wages', 'utilities', 'effects']
+profits
+substitute word----------- benefits
+originial word--------- lease
+['contract', 'rent', 'licence', 'license', 'covenant', 'tenure', 'permit', 'punt', 'monopoly', 'rental']
+lease
+substitute word----------- contract
+originial word--------- object
+['item', 'thing', 'instrument', 'artifact', 'implement', 'tool', 'device', 'asset', 'property', 'subject']
+object
+substitute word----------- object
+originial word--------- effective
+['operational', 'functional', 'operative', 'ineffective', 'active', 'valid', 'apparent', 'applicable', 'available', 'illegal']
+effective
+substitute word----------- active
+A contract becomes active when one of the parties has agreed to allow the other party to use an object and take benefits from , and the latter has agreed to pay money for it .
+Rent shall be paid at the end of each month in the case of a movable, a building, or a building site, and at the end of each year in the case of any other land: Provided, That in the case of a leased object which has a harvest season, rent shall be paid, without delay, upon the close of such a season.
+originial word--------- movable
+['fixed', 'mo', 'mobile', 'building', 'portable', 'stationary', 'furniture', 'property', 'mall', 'floating']
+movable
+substitute word----------- fixed
+originial word--------- leased
+['rented', 'furnished', 'rental', 'managed', 'used', 'harvested', 'farm', 'married', 'hired', 'new']
+leased
+substitute word----------- used
+originial word--------- harvest
+['crop', 'market', 'famine', 'plantation', 'growing', 'farming', 'fishing', 'productive', 'subsistence', 'summer']
+harvest
+substitute word----------- crop
+originial word--------- delay
+['pause', 'hesitation', 'interruption', 'wait', 'haste', 'cause', 'interference', 'bother', 'consequence', 'trial']
+delay
+substitute word----------- cause
+originial word--------- shall
+['will', 'should', 'may', 'must', 'would', '...', 'whistle', 'can', 'to', 'thus']
+shall
+substitute word----------- will
+originial word--------- Rent
+['it', 'this', 'lease', 'tax', 'duty', 'money', 'payment', 'charge', 'and', 'amount']
+Rent
+substitute word----------- it
+originial word--------- rent
+['lease', 'tenant', 'price', 'payment', 'tax', 'cost', 'it', 'charge', 'money', 'tide']
+rent
+substitute word----------- rent
+originial word--------- object
+['asset', 'subject', 'item', 'thing', 'land', 'instrument', 'area', 'substance', 'property', 'tract']
+object
+substitute word----------- subject
+originial word--------- season
+['year', 'summer', 'period', 'time', 'week', 'winter', 'star', 'month', 'station', 'harvest']
+season
+substitute word----------- year
+originial word--------- shall
+['may', 'will', 'must', 'can', 'should', 'would', 'to', 'is', 'might', 'cannot']
+shall
+substitute word----------- will
+it will be paid at the end of each month in the case of a fixed , a building , or a building site , and at the end of each year in the case of any other land : Provided , That in the case of a used subject which has a crop year , rent will be paid , without cause , upon the close of such a season .
+In the case of the lease of a building or any other structure, if the amount of rent in arrears reaches the rent for two periods, the lessor may rescind the contract for the future.
+originial word--------- structure
+['arrangement', 'space', 'shape', 'place', 'thing', 'institution', 'feature', 'body', 'construction', 'format']
+structure
+substitute word----------- space
+originial word--------- rescind
+['terminate', 'renew', 'cancel', 'suspend', 'extend', 'void', 'break', 'conclude', 'withdraw', 'modify']
+rescind
+substitute word----------- cancel
+originial word--------- lease
+['rent', 'rental', 'loan', 'purchase', 'contract', 'sale', 'lend', 'mortgage', 'plan', 'occupation']
+lease
+substitute word----------- rent
+originial word--------- contract
+['agreement', 'deal', 'license', 'lease', 'clause', 'marriage', 'plan', 'suit', 'service', 'sale']
+contract
+substitute word----------- deal
+originial word--------- rent
+['lease', 'tenant', 'loan', 'price', 'lend', 'bail', 'profit', 'money', 'fare', 'interest']
+rent
+substitute word----------- price
+originial word--------- reaches
+['meets', 'becomes', 'exceeds', 'is', 'approaches', 'passes', 'finds', 'covers', 'leaves', 'includes']
+reaches
+substitute word----------- is
+originial word--------- arrears
+['possession', 'advance', 'excess', 'interest', 'account', 'time', 'question', 'consideration', 'circulation', 'years']
+arrears
+substitute word----------- possession
+originial word--------- rent
+['price', 'amount', 'rate', 'loan', 'minimum', 'cost', 'lease', 'limit', 'payment', 'level']
+rent
+substitute word----------- price
+originial word--------- periods
+['times', 'months', 'years', 'weeks', 'seasons', 'cycles', 'purposes', 'terms', 'days', 'areas']
+periods
+substitute word----------- times
+originial word--------- lessor
+['tenant', 'owner', 'landlord', 'seller', 'management', 'company', 'manager', 'holder', 'client', 'vendor']
+lessor
+substitute word----------- landlord
+In the case of the rent of a building or any other space , if the amount of price in possession is the price for two times , the landlord may cancel the deal for the future .
+If part of the leased object has become unusable, or has become impossible to take profit from, due to loss or any other cause other than the fault of the lessee, the lessee may demand a reduction of the rent in proportion to the part which has been lost.
+originial word--------- unusable
+['impossible', 'useless', 'unavailable', 'inaccessible', 'unreliable', 'invalid', 'usable', 'ineffective', 'unable', 'invisible']
+unusable
+substitute word----------- useless
+originial word--------- impossible
+['unable', 'easier', 'easy', 'difficult', 'uncomfortable', 'unavailable', 'harder', 'incapable', 'hard', 'inaccessible']
+impossible
+substitute word----------- difficult
+originial word--------- demand
+['request', 'claim', 'desire', 'seek', 'command', 'order', 'require', 'receive', 'take', 'accept']
+demand
+substitute word----------- request
+originial word--------- reduction
+['decrease', 'decline', 'relief', 'lower', 'change', 'discount', 'loss', 'rise', 'division', 'shift']
+reduction
+substitute word----------- reduction
+originial word--------- proportion
+['relation', 'percentage', 'preference', 'ratio', 'fraction', 'part', 'regard', 'remainder', 'respect', 'volume']
+proportion
+substitute word----------- relation
+originial word--------- profit
+['benefit', 'gain', 'money', 'cost', 'loss', 'wealth', 'income', 'advantage', 'interest', 'cash']
+profit
+substitute word----------- money
+originial word--------- rent
+['lease', 'cost', 'price', 'wage', 'rate', 'profit', 'value', 'tenant', 'income', 'tax']
+rent
+substitute word----------- cost
+originial word--------- lessee
+['tenant', 'landlord', 'owner', 'buyer', 'seller', 'client', 'customer', 'tenants', 'rent', 'receiver']
+lessee
+substitute word----------- landlord
+originial word--------- lessee
+['owner', 'tenant', 'landlord', 'proprietor', 'trustee', 'seller', 'fault', 'lease', 'user', 'receiver']
+lessee
+substitute word----------- tenant
+originial word--------- leased
+['rented', 'furnished', 'rent', 'reserved', 'managed', 'designated', 'licensed', 'bonded', 'deemed', 'let']
+leased
+substitute word----------- rented
+If part of the rented object has become useless , or has become difficult to take money from , due to loss or any other cause other than the fault of the tenant , the landlord may request a reduction of the cost in relation to the part which has been lost .
+If, as mentioned in paragraph (1), the remaining part of the object is not sufficient to enable the lessee to attain the objective for which the lease has been made, the lessee may rescind the contract for the future.
+originial word--------- objective
+['achievement', 'interest', 'expectation', 'intention', 'opportunity', 'aim', 'obligation', 'goal', 'application', 'end']
+objective
+substitute word----------- aim
+originial word--------- sufficient
+['insufficient', 'enough', 'necessary', 'adequate', 'inadequate', 'considerable', 'ample', 'suitable', 'present', 'substantial']
+sufficient
+substitute word----------- enough
+originial word--------- mentioned
+['stated', 'noted', 'cited', 'related', 'discussed', 'listed', 'said', 'specified', 'found', 'suggested']
+mentioned
+substitute word----------- stated
+originial word--------- rescind
+['terminate', 'void', 'res', 'dissolve', 'quit', 'cancel', 'renew', 'abandon', 'sell', 'reprise']
+rescind
+substitute word----------- terminate
+originial word--------- enable
+['allow', 'assist', 'permit', 'ease', 'accelerate', 'endeavour', 'facilitate', 'persuade', 'achieve', 'ensure']
+enable
+substitute word----------- allow
+originial word--------- attain
+['achieve', 'reach', 'obtain', 'accomplish', 'access', 'grasp', 'acquire', 'meet', 'aggregate', 'achieving']
+attain
+substitute word----------- achieve
+originial word--------- contract
+['agreement', 'lease', 'relationship', 'promise', 'charter', 'treaty', 'wage', 'clause', 'licence', 'partnership']
+contract
+substitute word----------- contract
+originial word--------- lease
+['contract', 'rent', 'sale', 'agreement', 'purchase', 'rental', 'loan', 'deed', 'promise', 'deal']
+lease
+substitute word----------- contract
+originial word--------- lessee
+['seller', 'parties', 'owner', 'buyer', 'receiver', 'tenant', 'vendor', 'landlord', 'party', 'defendant']
+lessee
+substitute word----------- owner
+originial word--------- paragraph
+['clause', 'section', 'proposition', '§', 'sentence', 'table', 'annex', 'provision', 'division', 'article']
+paragraph
+substitute word----------- section
+originial word--------- lessee
+['tenant', 'seller', 'owner', 'buyer', 'holder', 'proprietor', 'defendant', 'recipient', 'party', 'plaintiff']
+lessee
+substitute word----------- tenant
+originial word--------- remaining
+['latter', 'retained', 'lingering', 'additional', 'resulting', 'retaining', 'standing', 'existing', 'other', 'mounting']
+remaining
+substitute word----------- remaining
+originial word--------- object
+['lease', 'obligation', 'contract', 'purpose', 'operation', 'promise', 'relationship', 'agreement', 'interest', 'article']
+object
+substitute word----------- purpose
+If , as stated in section ( 1 ) , the remaining part of the purpose is not enough to allow the tenant to achieve the aim for which the contract has been made , the owner may terminate the contract for the future .
+If the delivery of a specific thing is the subject of a claim, the obligor is bound to preserve such thing with the care of a good manager until it is delivered.
+originial word--------- specific
+['particular', 'certain', 'generic', 'single', 'given', 'unique', 'designated', 'named', 'such', 'similar']
+specific
+substitute word----------- certain
+originial word--------- delivered
+['arrived', 'addressed', 'dispatched', 'completed', 'shipped', 'returned', 'sold', 'ordered', 'received', 'reached']
+delivered
+substitute word----------- sold
+originial word--------- preserve
+['retain', 'protect', 'keep', 'guard', 'maintain', 'save', 'store', 'safeguard', 'seal', 'conserve']
+preserve
+substitute word----------- protect
+originial word--------- delivery
+['distribution', 'release', 'deployment', 'fulfillment', 'execution', 'possession', 'publication', 'completion', 'arrival', 'presentation']
+delivery
+substitute word----------- delivery
+originial word--------- obligor
+['company', 'author', 'owner', 'bearer', 'manager', 'plaintiff', 'administrator', 'victim', 'auditor', 'employer']
+obligor
+substitute word----------- company
+originial word--------- subject
+['basis', 'target', 'object', 'result', 'topic', 'ground', 'cause', 'matter', 'source', 'theme']
+subject
+substitute word----------- object
+originial word--------- bound
+['tied', 'required', 'contracted', 'obliged', 'trapped', 'ground', 'binding', 'constrained', 'paid', 'supposed']
+bound
+substitute word----------- tied
+If the delivery of a certain thing is the object of a claim , the company is tied to protect such thing with the care of a good manager until it is sold .
+If repairs are necessary to the leased object or a third person claims a right over it, the lessee shall notify the lessor thereof without delay: Provided, That this shall not apply if the lessor has prior knowledge of this information.
+originial word--------- repairs
+['renovations', 'improvements', 'things', 'works', 'services', 'conditions', 'profits', 'nails', 'supplies', 'damages']
+repairs
+substitute word----------- things
+originial word--------- knowledge
+['ignorance', 'notice', 'information', 'remembrance', 'notification', 'learning', 'intention', 'calculation', 'practice', 'hire']
+knowledge
+substitute word----------- information
+originial word--------- thereof
+['of', 'itself', 'upon', ',', 'whatsoever', 'otherwise', ';', 'wherein', 'elsewhere', 'individually']
+thereof
+substitute word----------- of
+originial word--------- lessor
+['owner', 'owners', 'seller', 'holder', 'recipient', 'operator', 'receiver', 'tenant', 'proprietor', 'bearer']
+lessor
+substitute word----------- owner
+originial word--------- shall
+['may', 'will', 'must', 'should', 'is', 'cannot', 'has', 'can', 'would', 'labour']
+shall
+substitute word----------- will
+originial word--------- information
+['knowledge', 'fact', 'news', 'interest', 'attention', 'advice', 'notice', 'identity', 'intelligence', 'data']
+information
+substitute word----------- knowledge
+originial word--------- lessor
+['owner', 'latter', 'person', 'receiver', 'operator', 'other', 'seller', 'applicant', 'former', 'defendant']
+lessor
+substitute word----------- owner
+originial word--------- claims
+['draws', 'asserts', 'has', 'issues', 'disputes', 'maintains', 'raises', 'holds', 'flags', 'contests']
+claims
+substitute word----------- has
+originial word--------- leased
+['rented', 'licensed', 'rent', 'furnished', 'said', 'given', 'occupied', 'allocated', 'rental', 'same']
+leased
+substitute word----------- rented
+originial word--------- notify
+['inform', 'warn', 'tell', 'informed', 'alert', 'informs', 'announce', 'write', 'brief', 'discharge']
+notify
+substitute word----------- inform
+originial word--------- delay
+['detention', 'penalty', 'disruption', 'disturbance', 'waiting', 'interference', 'hesitation', 'interruption', 'wait', 'loss']
+delay
+substitute word----------- delay
+originial word--------- lessee
+['owner', 'proprietor', 'receiver', 'landlord', 'master', 'applicant', 'tenant', 'buyer', 'customer', 'operator']
+lessee
+substitute word----------- owner
+If things are necessary to the rented object or a third person has a right over it , the owner shall inform the owner of without delay : Provided , That this will not apply if the owner has prior information of this knowledge .
+The lessee may not object to a lessor who performs any act deemed necessary for the preservation of the object leased.
+originial word--------- preservation
+['conservation', 'survival', 'retention', 'protection', 'loss', 'safety', 'integrity', 'security', 'performance', 'maintenance']
+preservation
+substitute word----------- protection
+originial word--------- performs
+['does', 'completes', 'provides', 'practices', 'acts', 'conducts', 'implements', 'operates', 'employs', 'undergoes']
+performs
+substitute word----------- does
+originial word--------- deemed
+['considered', 'presumed', 'determined', 'declared', 'judged', 'perceived', 'made', 'found', 'apparently', 'sustained']
+deemed
+substitute word----------- considered
+originial word--------- lessor
+['person', 'subject', 'contractor', 'tenant', 'master', 'proprietor', 'defendant', 'user', 'seller', 'partner']
+lessor
+substitute word----------- person
+originial word--------- leased
+['rented', 'reserved', 'deemed', 'licensed', 'pledged', 'conveyed', 'gained', 'kept', 'ceded', 'transferred']
+leased
+substitute word----------- rented
+originial word--------- lessee
+['owner', 'landlord', 'seller', 'tenant', 'buyer', 'lease', 'proprietor', 'receiver', 'landowner', 'vendor']
+lessee
+substitute word----------- owner
+originial word--------- object
+['appeal', 'answer', 'agree', 'attach', 'assent', 'adhere', 'order', 'opposition', 'oppose', 'argument']
+object
+substitute word----------- answer
+The owner may not answer to a person who does any act considered necessary for the protection of the object rented .
+A lessor is bound to deliver the object to the lessee, to maintain conditions necessary for the use and taking profits of the leased object while the lease is in force.
+originial word--------- lessor
+['landlord', 'seller', 'buyer', 'vendor', 'contractor', 'partner', 'collector', 'receiver', 'dealer', 'landowner']
+lessor
+substitute word----------- landlord
+originial word--------- deliver
+['convey', 'provide', 'sell', 'give', 'render', 'bring', 'return', 'dispatch', 'transfer', 'acquire']
+deliver
+substitute word----------- deliver
+originial word--------- lease
+['rent', 'license', 'rental', 'licence', 'loan', 'warrant', 'tenure', 'deed', 'contract', 'tenant']
+lease
+substitute word----------- rent
+originial word--------- profits
+['costs', 'benefits', 'gains', 'fortunes', 'revenues', 'losses', 'incomes', 'risks', 'debts', 'rights']
+profits
+substitute word----------- costs
+originial word--------- lessee
+['tenant', 'owner', 'lease', 'seller', 'leased', 'other', 'landlord', 'defendant', 'holder', 'applicant']
+lessee
+substitute word----------- owner
+originial word--------- leased
+['rented', 'designated', 'licensed', 'sold', 'said', 'occupied', 'furnished', 'referenced', 'coveted', 'purchased']
+leased
+substitute word----------- rented
+originial word--------- maintain
+['provide', 'keep', 'retain', 'remain', 'sustain', 'obtain', 'practice', 'continue', 'establish', 'render']
+maintain
+substitute word----------- keep
+originial word--------- bound
+['tied', 'contracted', 'required', 'called', 'bonded', 'charged', 'due', 'obliged', 'free', 'sworn']
+bound
+substitute word----------- tied
+originial word--------- conditions
+['restrictions', 'terms', 'rules', 'prices', 'those', 'clauses', 'the', 'relations', 'regimes', 'relationships']
+conditions
+substitute word----------- rules
+A landlord is tied to deliver the object to the owner , to keep rules necessary for the use and taking costs of the rented object while the rent is in force .
+A lessee may not assign his rights or sub-lease the leased object without the consent of the lessor.
+originial word--------- sub-lease
+['sell', 'share', 'use', 'divide', 'take', 'annex', 'assign', 'control', 'transfer', 'modify']
+sub-lease
+substitute word----------- sell
+originial word--------- assign
+['attach', 'offer', 'intern', 'erect', 'apply', 'address', 'appoint', 'donate', 'essay', 'anchor']
+assign
+substitute word----------- offer
+originial word--------- lessee
+['landlord', 'proprietor', 'buyer', 'tenant', 'seller', 'person', 'holder', 'receiver', 'vendor', 'defendant']
+lessee
+substitute word----------- landlord
+originial word--------- consent
+['permission', 'assent', 'approval', 'agreement', 'decision', 'resort', 'cooperation', 'notice', 'attention', 'intention']
+consent
+substitute word----------- permission
+originial word--------- lessor
+['owner', 'seller', 'other', 'recipient', 'user', 'tenant', 'receiver', 'operator', 'landlord', 'holder']
+lessor
+substitute word----------- owner
+originial word--------- leased
+['rented', 'licensed', 'regulated', 'managed', 'contracted', 'loaned', 'sold', 'traded', 'quoted', 'listed']
+leased
+substitute word----------- rented
+A landlord may not offer his rights or sell the rented object without the permission of the owner .
+If the lessee violates the provisions of paragraph (1), the lessor may rescind the contract for the future.
+originial word--------- violates
+['fails', 'denies', 'maintains', 'breaks', 'commits', 'meets', 'beats', 'retains', 'crosses', 'states']
+violates
+substitute word----------- breaks
+originial word--------- provisions
+['clauses', 'terms', 'sections', 'statutes', 'violations', 'conditions', 'regulations', 'restrictions', 'requirements', 'policies']
+provisions
+substitute word----------- terms
+originial word--------- rescind
+['terminate', 'res', 'void', 'cancel', 'modify', 'renew', 'amend', 'replay', 'suspend', 'destroy']
+rescind
+substitute word----------- cancel
+originial word--------- contract
+['agreement', 'covenant', 'sale', 'relationship', 'deal', 'charter', 'decision', 'obligation', 'license', 'partnership']
+contract
+substitute word----------- deal
+originial word--------- paragraph
+['clause', 'section', 'sentence', 'proposition', 'premise', 'table', 'provision', 'sub', 'chapter', 'formula']
+paragraph
+substitute word----------- sentence
+originial word--------- lessee
+['contract', 'seller', 'owner', 'agreement', 'tenant', 'defendant', 'transaction', 'buyer', 'plaintiff', 'clause']
+lessee
+substitute word----------- owner
+originial word--------- lessor
+['seller', 'receiver', 'owner', 'party', 'company', 'buyer', 'plaintiff', 'employer', 'defendant', 'other']
+lessor
+substitute word----------- owner
+If the owner breaks the terms of sentence ( 1 ) , the owner may cancel the deal for the future .
+If the lessor performs an act of preservation against the will of the lessee and the lessee is thereby incapable of attaining the objective for which the lease has been obtained, the lessee may rescind the contract for the future.
+originial word--------- preservation
+['defense', 'conservation', 'destruction', 'extinction', 'restoration', 'survival', 'conserve', 'refuge', 'confinement', 'regeneration']
+preservation
+substitute word----------- destruction
+originial word--------- performs
+['does', 'completes', 'plays', 'acts', 'conducts', 'undergoes', 'operates', 'commits', 'produces', 'execute']
+performs
+substitute word----------- does
+originial word--------- objective
+['achievement', 'end', 'aspect', 'enterprise', 'obligation', 'aim', 'purpose', 'outcome', 'goal', 'article']
+objective
+substitute word----------- purpose
+originial word--------- incapable
+['unable', 'inadequate', 'insufficient', 'capable', 'ineligible', 'impossible', 'ill', 'powerless', 'inability', 'unaware']
+incapable
+substitute word----------- unable
+originial word--------- obtained
+['attained', 'sought', 'derived', 'determined', 'secured', 'acquired', 'purchased', 'achieved', 'received', 'conferred']
+obtained
+substitute word----------- acquired
+originial word--------- attaining
+['achieving', 'reaching', 'obtaining', 'securing', 'satisfying', 'determining', 'realising', 'realizing', 'completing', 'gaining']
+attaining
+substitute word----------- reaching
+originial word--------- thereby
+['thus', 'directly', 'effectively', 'however', 'hence', 'necessarily', 'consequently', 'otherwise', 'immediately', 'substantially']
+thereby
+substitute word----------- thus
+originial word--------- lessee
+['owner', 'latter', 'seller', 'defendant', 'recipient', 'other', 'person', 'tenant', 'proprietor', 'holder']
+lessee
+substitute word----------- owner
+originial word--------- rescind
+['res', 'renew', 'void', 'cancel', 'terminate', 'dissolve', 'amend', 'modify', 'abandon', 'reprise']
+rescind
+substitute word----------- cancel
+originial word--------- lessor
+['owner', 'defendant', 'landlord', 'tenant', 'seller', 'holder', 'receiver', 'operator', 'master', 'proprietor']
+lessor
+substitute word----------- defendant
+originial word--------- contract
+['agreement', 'lease', 'covenant', 'promise', 'partnership', 'engagement', 'bond', 'relationship', 'wage', 'marriage']
+contract
+substitute word----------- agreement
+originial word--------- lease
+['contract', 'license', 'grant', 'rent', 'deed', 'title', 'licence', 'agreement', 'term', 'loan']
+lease
+substitute word----------- rent
+originial word--------- lessee
+['owner', 'buyer', 'seller', 'tenant', 'will', 'defendant', 'proprietor', 'other', 'plaintiff', 'landlord']
+lessee
+substitute word----------- owner
+originial word--------- lessee
+['owner', 'buyer', 'landlord', 'latter', 'seller', 'court', 'receiver', 'developer', 'creditors', 'lease']
+lessee
+substitute word----------- owner
+If the defendant does an act of destruction against the will of the owner and the owner is thus unable of reaching the purpose for which the rent has been acquired , the owner may cancel the agreement for the future .
+If one of the parties rescinds a contract for the future, the contract shall lose its effect for the future.
+originial word--------- contract
+['pact', 'deal', 'promise', 'treaty', 'decision', 'bond', 'agreement', 'covenant', 'clause', 'commitment']
+contract
+substitute word----------- deal
+originial word--------- rescinds
+['rejects', 'removes', 'loses', 'terminates', 'commits', 'reviews', 'contracts', 'regrets', 'leaves', 'releases']
+rescinds
+substitute word----------- rejects
+originial word--------- contract
+['agreement', 'clause', 'treaty', 'law', 'latter', 'document', 'deal', 'offer', 'result', 'act']
+contract
+substitute word----------- agreement
+originial word--------- shall
+['will', 'cannot', 'may', 'would', 'must', 'till', 'wo', '⇒', 'therefore', 'whereby']
+shall
+substitute word----------- will
+If one of the parties rejects a deal for the future , the agreement will lose its effect for the future .
+Rescission for the future or rescission of a contract shall not affect any claim for damages.
+originial word--------- rescission
+['termination', 'cancellation', 'breach', 'renewal', 'execution', 'violation', 'fulfillment', 'suspension', 'loss', 'abandonment']
+rescission
+substitute word----------- termination
+originial word--------- Rescission
+['relief', 'remedy', 'payment', 'suspension', 'redemption', 'return', 'recovery', 'delivery', 'removal', 'compensation']
+Rescission
+substitute word----------- payment
+originial word--------- damages
+['losses', 'benefits', 'injuries', 'compensation', 'repairs', 'burns', 'fines', 'wages', 'costs', 'claims']
+damages
+substitute word----------- losses
+originial word--------- contract
+['treaty', 'future', 'clause', 'lawsuit', 'promise', 'bond', 'charter', 'document', 'suit', 'law']
+contract
+substitute word----------- contract
+originial word--------- shall
+['may', 'will', 'must', 'should', 'does', 'would', 'is', 'do', 'be', 'need']
+shall
+substitute word----------- will
+originial word--------- affect
+['impact', 'effect', 'influence', 'change', 'modify', 'produce', 'touch', 'cause', 'result', 'matter']
+affect
+substitute word----------- affect
+payment for the future or termination of a contract will not affect any claim for losses .
+One of the parties to a bilateral contract may refuse performance of his own obligation until the other party tenders performance of his obligation: Provided, That this shall not apply where the obligation of the other party is not due.
+originial word--------- obligation
+['expectation', 'requirement', 'commitment', 'agreement', 'operation', 'responsibility', 'liability', 'interest', 'contract', 'activity']
+obligation
+substitute word----------- responsibility
+originial word--------- obligation
+['interest', 'offence', 'responsibility', 'expectation', 'endeavour', 'activity', 'duty', 'entity', 'instrument', 'interpretation']
+obligation
+substitute word----------- duty
+originial word--------- obligation
+['expectation', 'requirement', 'commitment', 'offence', 'liability', 'agreement', 'inability', 'debt', 'asset', 'responsibility']
+obligation
+substitute word----------- requirement
+originial word--------- performance
+['satisfaction', 'execution', 'completion', 'payment', 'presentation', 'fulfillment', 'implementation', 'achievement', 'production', 'knowledge']
+performance
+substitute word----------- performance
+originial word--------- refuse
+['reject', 'deny', 'decline', 'remain', 'fail', 'resist', 'retain', 'dispute', 'propose', 'stay']
+refuse
+substitute word----------- deny
+originial word--------- contract
+['agreement', 'partnership', 'relationship', 'commitment', 'treaty', 'sale', 'lawsuit', 'competition', 'transaction', 'covenant']
+contract
+substitute word----------- agreement
+originial word--------- bilateral
+['positive', 'contractual', 'basic', 'binary', 'marital', 'triangular', 'valid', 'reciprocal', 'benevolent', 'beneficial']
+bilateral
+substitute word----------- positive
+originial word--------- tenders
+['yields', 'contracts', 'reports', 'declares', 'provides', 'claims', 'performs', 'confesses', 'proposes', 'exchanges']
+tenders
+substitute word----------- reports
+originial word--------- performance
+['satisfaction', 'payment', 'service', 'possession', 'completion', 'achievement', 'execution', 'submission', 'presentation', 'maintenance']
+performance
+substitute word----------- execution
+originial word--------- shall
+['may', 'will', 'must', 'is', 'should', 'does', 'labour', 'would', 'section', 'usage']
+shall
+substitute word----------- will
+One of the parties to a positive agreement may deny performance of his own duty until the other party reports execution of his responsibility : Provided , That this will not apply where the requirement of the other party is not due .
+If one of the parties to a contract is bound to tender performance of his own obligation first to the other party, and if there is any significant cause existing by which the other party's performance becomes difficult, the body of the preceding paragraph shall apply.
+originial word--------- significant
+['major', 'notable', 'considerable', 'substantial', 'large', 'relevant', 'slight', 'comparable', 'small', 'such']
+significant
+substitute word----------- major
+originial word--------- obligation
+['duty', 'responsibility', 'expectation', 'competence', 'interest', 'contract', 'necessity', 'liability', 'undertaking', 'infringement']
+obligation
+substitute word----------- duty
+originial word--------- contract
+['agreement', 'sale', 'treaty', 'covenant', 'partnership', 'deal', 'clause', 'document', 'competition', 'relationship']
+contract
+substitute word----------- deal
+originial word--------- performance
+['execution', 'satisfaction', 'service', 'completion', 'delivery', 'presentation', 'operation', 'production', 'protection', 'achievement']
+performance
+substitute word----------- execution
+originial word--------- performance
+['service', 'satisfaction', 'completion', 'work', 'rendering', 'delivery', 'response', 'production', 'recovery', 'success']
+performance
+substitute word----------- work
+originial word--------- existing
+['occurring', 'standing', 'established', 'arising', 'remaining', 'prevailing', 'available', 'appearing', 'present', 'operating']
+existing
+substitute word----------- present
+originial word--------- tender
+['render', 'disclose', 'provide', 'pledge', 'yield', 'grant', 'submit', 'convey', 'deposit', 'give']
+tender
+substitute word----------- render
+originial word--------- paragraph
+['clause', 'section', 'sentence', 'table', 'page', 'proposition', 'provision', 'sheet', 'plank', 'pavement']
+paragraph
+substitute word----------- section
+originial word--------- preceding
+['following', 'prior', 'relevant', 'first', 'before', 'above', 'separating', 'next', 'descending', 'describing']
+preceding
+substitute word----------- following
+originial word--------- bound
+['tied', 'obliged', 'forced', 'required', 'prepared', 'willing', 'called', 'made', 'binding', 'supposed']
+bound
+substitute word----------- forced
+If one of the parties to a deal is forced to render execution of his own duty first to the other party , and if there is any major cause present by which the other party 's work becomes difficult , the body of the following section shall apply .
+Any agreement entered by the parties in contravention of the provisions of Articles 627, 628, 631, 635, 638, 640, 641, and 643 through 647 which is unfavorable to either the lessee or sub-lessee shall be void.
+originial word--------- unfavorable
+['unacceptable', 'adverse', 'detrimental', 'favorable', 'acceptable', 'harmful', 'contrary', 'oppressive', 'unreasonable', 'beneficial']
+unfavorable
+substitute word----------- unacceptable
+originial word--------- contravention
+['violation', 'breach', 'defiance', 'ignorance', 'excess', 'disregard', 'protest', 'restraint', 'compliance', 'virtue']
+contravention
+substitute word----------- violation
+originial word--------- provisions
+['regulations', 'violations', 'sections', 'passages', 'clauses', 'contents', 'statues', 'tables', 'statutes', 'components']
+provisions
+substitute word----------- regulations
+originial word--------- entered
+['executed', 'assumed', 'signed', 'agreed', 'initiated', 'concluded', 'passed', 'enacted', 'done', 'negotiated']
+entered
+substitute word----------- signed
+originial word--------- sub-lessee
+['contractor', 'nominee', 'owner', 'principal', 'seller', 'plaintiff', 'solvent', 'contributor', 'proprietor', 'shareholder']
+sub-lessee
+substitute word----------- owner
+originial word--------- void
+['valid', 'invalid', 'null', 'unlawful', 'legal', 'illicit', 'meaningless', 'lawful', 'vacant', 'cancelled']
+void
+substitute word----------- invalid
+originial word--------- lessee
+['owner', 'seller', 'principal', 'holder', 'developer', 'master', 'plaintiff', 'proprietor', 'landlord', 'buyer']
+lessee
+substitute word----------- owner
+originial word--------- agreement
+['accord', 'arrangement', 'contract', 'alliance', 'amendment', 'pact', 'treaty', 'convention', 'consent', 'association']
+agreement
+substitute word----------- contract
+originial word--------- shall
+['will', 'may', 'would', 'should', 'must', 'cannot', 'can', 'is', 'to', ',']
+shall
+substitute word----------- will
+Any contract signed by the parties in violation of the regulations of Articles 627 , 628 , 631 , 635 , 638 , 640 , 641 , and 643 through 647 which is unacceptable to either the owner or owner will be invalid .
+If the lessee of a building or any other structure has attached an Article to such a building, etc. with the consent of the lessor for the benefit of the lessee's use, the lessee may demand that the lessor purchase such accessories at the time when the contract of lease terminates.
+originial word--------- accessories
+['articles', 'extensions', 'objects', 'elements', 'items', 'amenities', 'assets', 'activities', 'affairs', 'components']
+accessories
+substitute word----------- objects
+originial word--------- structure
+['building', 'construction', 'facility', 'shape', 'space', 'venue', 'thing', 'arrangement', 'form', 'vessel']
+structure
+substitute word----------- building
+originial word--------- demand
+['request', 'desire', 'require', 'insist', 'need', 'claim', 'command', 'drive', 'provide', 'wish']
+demand
+substitute word----------- request
+originial word--------- terminates
+['ends', 'concludes', 'extends', 'continues', 'closes', 'begins', 'leaves', 'contracts', 'wraps', 'engages']
+terminates
+substitute word----------- ends
+originial word--------- attached
+['mounted', 'applied', 'clipped', 'fitted', 'fastened', 'added', 'affiliated', 'coupled', 'bound', 'associated']
+attached
+substitute word----------- attached
+originial word--------- contract
+['agreement', 'term', 'bill', 'program', 'deal', 'offer', 'relationship', 'treaty', 'clause', 'period']
+contract
+substitute word----------- contract
+originial word--------- lessor
+['owner', 'applicant', 'defendant', 'tenant', 'operator', 'latter', 'receiver', 'seller', 'other', 'builder']
+lessor
+substitute word----------- owner
+originial word--------- lessee
+['owner', 'lease', 'tenant', 'client', 'court', 'seller', 'landlord', 'latter', 'principal', 'contract']
+lessee
+substitute word----------- owner
+originial word--------- lessee
+['owner', 'lease', 'tenant', 'proprietor', 'operator', 'contractor', 'landlord', 'rent', 'manager', 'holder']
+lessee
+substitute word----------- owner
+originial word--------- lessee
+['tenant', 'owner', 'latter', 'buyer', 'builder', 'person', 'building', 'applicant', 'seller', 'client']
+lessee
+substitute word----------- tenant
+originial word--------- lessor
+['owner', 'landlord', 'tenant', 'seller', 'parties', 'manager', 'lease', 'agent', 'company', 'buyer']
+lessor
+substitute word----------- owner
+originial word--------- consent
+['permission', 'assent', 'approval', 'agreement', 'discretion', 'cooperation', 'privilege', 'compliance', 'assistance', 'decision']
+consent
+substitute word----------- permission
+originial word--------- purchase
+['buy', 'obtain', 'mount', 'sell', 'provide', 'remove', 'release', 'receive', 'rent', 'choose']
+purchase
+substitute word----------- buy
+originial word--------- lease
+['rent', 'rental', 'use', 'license', 'sale', 'share', 'agreement', 'tenure', 'deed', 'repair']
+lease
+substitute word----------- rent
+originial word--------- Article
+['item', 'object', 'element', 'end', 'amount', 'asset', 'part', 'attachment', 'accessory', 'area']
+Article
+substitute word----------- object
+originial word--------- benefit
+['advantage', 'use', 'profit', 'pleasure', 'utility', 'good', 'gain', 'support', 'purpose', 'convenience']
+benefit
+substitute word----------- advantage
+If the owner of a building or any other building has attached an object to such a building , etc . with the permission of the owner for the advantage of the tenant 's use , the owner may request that the owner buy such objects at the time when the contract of rent ends .
+The provisions of the preceding paragraph shall apply to the accessories purchased from the lessor.
+originial word--------- accessories
+['equipment', 'devices', 'items', 'articles', 'tools', 'appliances', 'products', 'instruments', 'things', 'objects']
+accessories
+substitute word----------- equipment
+originial word--------- provisions
+['regulations', 'clauses', 'contents', 'sections', 'distinctions', 'passages', 'requirements', 'amendments', 'restrictions', 'components']
+provisions
+substitute word----------- regulations
+originial word--------- purchased
+['bought', 'obtained', 'sold', 'collected', 'acquired', 'rented', 'provided', 'received', 'bundled', 'supplied']
+purchased
+substitute word----------- bought
+originial word--------- paragraph
+['clause', 'section', 'provision', 'compartment', 'stanza', 'sentence', 'chapter', 'concourse', 'plank', 'page']
+paragraph
+substitute word----------- section
+originial word--------- preceding
+['following', 'ascending', 'descending', 'succeeding', 'commencing', 'proceeding', 'tying', 'leading', 'restraining', 'possessing']
+preceding
+substitute word----------- following
+originial word--------- lessor
+['owner', 'manufacturer', 'seller', 'receiver', 'dealer', 'agent', 'supplier', 'retailer', 'vendor', 'author']
+lessor
+substitute word----------- owner
+originial word--------- shall
+['will', 'may', 'must', 'proper', 'should', 'are', 'per', 'can', '§', 'hence']
+shall
+substitute word----------- will
+The regulations of the following section will apply to the equipment bought from the owner .
+If no period for a lease has been fixed, either party may give notice to the other party at any time to rescind the lease for the future.
+originial word--------- rescind
+['terminate', 'modify', 'close', 'cancel', 'end', 'break', 'renew', 'fix', 'void', 'continue']
+rescind
+substitute word----------- terminate
+originial word--------- fixed
+['determined', 'marked', 'decided', 'stipulated', 'agreed', 'settled', 'fitted', 'paid', 'shed', 'set']
+fixed
+substitute word----------- fixed
+originial word--------- lease
+['rental', 'renewal', 'residency', 'rent', 'deed', 'fix', 'pledge', 'relationship', 'loan', 'license']
+lease
+substitute word----------- lease
+originial word--------- lease
+['rent', 'rental', 'tenure', 'contract', 'tenant', 'partnership', 'purchase', 'licence', 'residency', 'agreement']
+lease
+substitute word----------- rent
+If no period for a lease has been fixed , either party may give notice to the other party at any time to terminate the rent for the future .
+Rescission of the lease for the future shall be effective upon the expiration of the periods mentioned in each of the following subparagraphs, from the day on which the other party has received the notice mentioned in paragraph (1):
+originial word--------- expiration
+['termination', 'end', 'commencement', 'completion', 'conclusion', 'extension', 'renewal', 'occurrence', 'removal', 'exercise']
+expiration
+substitute word----------- termination
+originial word--------- subparagraphs
+['sections', 'paragraph', 'parts', 'section', 'clauses', 'lines', 'components', 'categories', 'divisions', 'schedules']
+subparagraphs
+substitute word----------- sections
+originial word--------- Rescission
+['renewal', 'termination', 'suspension', 'withdrawal', 'cancellation', 'dissolution', 'removal', 'relaxation', 'revision', 'review']
+Rescission
+substitute word----------- termination
+originial word--------- mentioned
+['stated', 'noted', 'given', 'cited', 'named', 'listed', 'quoted', 'referred', 'notified', 'described']
+mentioned
+substitute word----------- stated
+originial word--------- effective
+['active', 'enforced', 'ineffective', 'approved', 'able', 'available', 'taken', 'applied', 'exact', 'ex']
+effective
+substitute word----------- active
+originial word--------- mentioned
+['described', 'noted', 'stated', 'cited', 'indicated', 'listed', 'discussed', 'specified', 'given', 'contained']
+mentioned
+substitute word----------- described
+originial word--------- paragraph
+['table', 'sentence', 'section', 'clause', 'proposition', 'division', 'conclusion', 'bill', 'passage', 'pole']
+paragraph
+substitute word----------- section
+originial word--------- lease
+['rental', 'term', 'rent', 'deed', 'loan', 'license', 'contract', 'mortgage', 'licence', 'tenant']
+lease
+substitute word----------- rent
+originial word--------- periods
+['times', 'months', 'terms', 'areas', 'procedures', 'intervals', 'services', 'weeks', 'stretches', 'hours']
+periods
+substitute word----------- times
+originial word--------- shall
+['will', 'may', 'would', 'must', 'should', 'is', 'can', 'till', ',', '.']
+shall
+substitute word----------- will
+termination of the rent for the future will be active upon the termination of the times described in each of the following sections , from the day on which the other party has received the notice stated in section ( 1 ) :
+Six months, if the lessor has given notice of rescission of the lease to the lessee, and one month, if the lessee has given notice of rescission of the lease to the lessor, in the case of land, building and any other structure
+originial word--------- rescission
+['termination', 'renewal', 'confirmation', 'acceptance', 'cancellation', 'transfer', 'approval', 'execution', 'sale', 'abandonment']
+rescission
+substitute word----------- termination
+originial word--------- rescission
+['renewal', 'termination', 'cancellation', 'notice', 'transfer', 'delivery', 'sale', 'confirmation', 'abandonment', 'execution']
+rescission
+substitute word----------- termination
+originial word--------- structure
+['construction', 'building', 'shape', 'thing', 'feature', 'arrangement', 'formation', 'form', 'item', 'station']
+structure
+substitute word----------- building
+originial word--------- lessor
+['owner', 'landlord', 'tenant', 'seller', 'buyer', 'manager', 'trustee', 'developer', 'receiver', 'promoter']
+lessor
+substitute word----------- owner
+originial word--------- lessee
+['owner', 'tenant', 'buyer', 'landlord', 'contractor', 'developer', 'principal', 'seller', 'builder', 'manager']
+lessee
+substitute word----------- owner
+originial word--------- lessor
+['tenant', 'owner', 'lease', 'receiver', 'seller', 'manager', 'master', 'landlord', 'land', 'estate']
+lessor
+substitute word----------- owner
+originial word--------- lessee
+['tenant', 'lease', 'landlord', 'owner', 'seller', 'property', 'applicant', 'master', 'company', 'rent']
+lessee
+substitute word----------- tenant
+originial word--------- lease
+['rent', 'contract', 'rental', 'property', 'loan', 'deed', 'agreement', 'sale', 'debt', 'notice']
+lease
+substitute word----------- rent
+originial word--------- lease
+['rent', 'loan', 'rental', 'contract', 'mortgage', 'deed', 'tenant', 'grant', 'relationship', 'void']
+lease
+substitute word----------- rent
+originial word--------- notice
+['news', 'word', 'letter', 'warning', 'date', 'recognition', 'proof', 'announcement', 'knowledge', 'assurance']
+notice
+substitute word----------- letter
+originial word--------- notice
+['certificate', 'warning', 'announcement', 'news', 'word', 'date', 'letter', 'leave', 'permission', 'letters']
+notice
+substitute word----------- notice
+Six months , if the owner has given notice of termination of the rent to the tenant , and one month , if the owner has given letter of termination of the rent to the owner , in the case of land , building and any other building
+Five days in the case of a movable.
+originial word--------- movable
+['fixed', 'minor', 'mobile', 'mechanical', 'permanent', 'congenital', 'facial', 'medical', 'chronic', 'severe']
+movable
+substitute word----------- fixed
+Five days in the case of a fixed .
+A contract for work becomes effective when one of the parties has agreed to perform a certain job and the other has agreed to pay remuneration for the result of such work.
+originial word--------- remuneration
+['compensation', 'payment', 'pay', 'money', 'rent', 'payments', 'reward', 'wages', 'treatment', 'consideration']
+remuneration
+substitute word----------- compensation
+originial word--------- perform
+['do', 'provide', 'execute', 'complete', 'maintain', 'fulfill', 'undertake', 'render', 'practice', 'conduct']
+perform
+substitute word----------- do
+originial word--------- contract
+['clause', 'deal', 'treaty', 'charter', 'bill', 'agreement', 'covenant', 'pact', 'law', 'bridge']
+contract
+substitute word----------- deal
+originial word--------- effective
+['operational', 'operative', 'ineffective', 'active', 'apparent', 'functional', 'applicable', 'available', 'operating', 'legal']
+effective
+substitute word----------- active
+A deal for work becomes active when one of the parties has agreed to do a certain job and the other has agreed to pay compensation for the result of such work .
+The remuneration shall be made simultaneously with the delivery of the finished object of the work: Provided, That if the delivery of the object of the work is not required, remuneration shall be paid without delay after the work has been performed.
+originial word--------- simultaneously
+['concurrently', 'jointly', 'continuously', 'together', 'consistently', 'instantly', 'directly', 'solely', 'concurrent', 'immediately']
+simultaneously
+substitute word----------- together
+originial word--------- remuneration
+['payment', 'payments', 'pay', 'compensation', 'contract', 'provision', 'delivery', 'request', 'salary', 'transfer']
+remuneration
+substitute word----------- payment
+originial word--------- remuneration
+['it', 'compensation', 'payment', 're', 'they', 'he', 'pay', 'the', 'this', 'payments']
+remuneration
+substitute word----------- it
+originial word--------- performed
+['completed', 'done', 'accomplished', 'executed', 'rendered', 'delivered', 'conducted', 'made', 'undertaken', 'implemented']
+performed
+substitute word----------- done
+originial word--------- shall
+['may', 'must', 'will', 'should', 'would', 'can', 'cannot', 'could', '...', '[']
+shall
+substitute word----------- will
+originial word--------- delivery
+['completion', 'execution', 'receipt', 'payment', 'return', 'presentation', 'arrival', 'transfer', 'supply', 'repair']
+delivery
+substitute word----------- execution
+originial word--------- delivery
+['completion', 'presentation', 'execution', 'commitment', 'transfer', 'payment', 'shipment', 'release', 'carriage', 'deployment']
+delivery
+substitute word----------- execution
+originial word--------- finished
+['completed', 'realized', 'executed', 'unfinished', 'complete', 'produced', 'realised', 'original', 'new', 'ended']
+finished
+substitute word----------- finished
+originial word--------- shall
+['will', 'may', 'must', 'can', 'cannot', 'should', 'would', 'to', 'might', 'is']
+shall
+substitute word----------- will
+originial word--------- delay
+['hesitation', 'wait', 'pause', 'waiting', 'hesitate', 'longer', 'notice', 'hurry', 'skip', 'penalty']
+delay
+substitute word----------- wait
+The payment will be made together with the execution of the finished object of the work : Provided , That if the execution of the object of the work is not required , it will be paid without wait after the work has been done .
+The provisions of Article 656 (2) shall apply mutatis mutandis to the remuneration mentioned in paragraph (1).
+originial word--------- provisions
+['clauses', 'regulations', 'sections', 'framework', 'amendments', 'requirements', 'passages', 'statutes', 'clause', 'verses']
+provisions
+substitute word----------- regulations
+originial word--------- remuneration
+['compensation', 'payment', 'terms', 'treatment', 'services', 'payments', 'benefits', 'material', 'conditions', 'expenses']
+remuneration
+substitute word----------- terms
+originial word--------- mutandis
+['mu', 'juris', 'ratio', 'et', 'justice', 'media', 'prima', 'fide', 'bonus', 'similarly']
+mutandis
+substitute word----------- ratio
+originial word--------- mentioned
+['discussed', 'referred', 'stated', 'cited', 'related', 'found', 'described', 'listed', 'introduced', 'supposed']
+mentioned
+substitute word----------- mentioned
+originial word--------- paragraph
+['sentence', 'section', 'clause', 'rap', 'sip', 'su', 'letter', 'phrase', 'viscount', 'bill']
+paragraph
+substitute word----------- section
+originial word--------- mutatis
+['as', 'in', 'via', 'vis', 'by', 'de', 'due', 'sui', 'super', 'mu']
+mutatis
+substitute word----------- as
+The regulations of Article 656 ( 2 ) shall apply as ratio to the terms mentioned in section ( 1 ) .
+The provisions of Articles 667 and 668 shall not apply if the defect in the finished subject-matter of the work has arisen through the nature of the materials supplied by the person who ordered the work, or by reason of instructions given by him: Provided, That this shall not apply if the contractor, knowing the impropriety of the materials or instructions, has failed to notify the person who ordered the work.
+originial word--------- subject-matter
+['matter', 'part', 'material', 'content', 'work', 'form', 'product', 'course', 'parts', 'portion']
+subject-matter
+substitute word----------- matter
+originial word--------- provisions
+['clauses', 'regulations', 'sections', 'requirements', 'obligations', 'terms', 'implications', 'formula', 'policies', 'amendments']
+provisions
+substitute word----------- regulations
+originial word--------- instructions
+['orders', 'directions', 'indications', 'notices', 'advertisements', 'lessons', 'commands', 'messages', 'information', 'announcements']
+instructions
+substitute word----------- orders
+originial word--------- impropriety
+['nature', 'condition', 'origin', 'substance', 'contents', 'content', 'quality', 'value', 'weakness', 'circumstances']
+impropriety
+substitute word----------- nature
+originial word--------- supplied
+['provided', 'presented', 'manufactured', 'given', 'traded', 'brought', 'worn', 'sold', 'offered', 'furnished']
+supplied
+substitute word----------- provided
+originial word--------- contractor
+['builder', 'superintendent', 'manufacturer', 'foreman', 'carpenter', 'owner', 'producer', 'engineer', 'company', 'worker']
+contractor
+substitute word----------- engineer
+originial word--------- materials
+['supplies', 'metals', 'elements', 'parts', 'items', 'goods', 'things', 'resources', 'substances', 'contents']
+materials
+substitute word----------- supplies
+originial word--------- finished
+['completed', 'produced', 'realized', 'material', 'sold', 'complete', 'unfinished', 'printed', 'written', 'graduated']
+finished
+substitute word----------- finished
+originial word--------- notify
+['inform', 'warn', 'report', 'tell', 'know', 'hire', 'meet', 'call', 'pay', 'alert']
+notify
+substitute word----------- inform
+originial word--------- instructions
+['orders', 'directions', 'drawings', 'provisions', 'specifications', 'plans', 'order', 'direction', 'designs', 'calculations']
+instructions
+substitute word----------- instructions
+originial word--------- arisen
+['occurred', 'originated', 'risen', 'arose', 'resulted', 'caused', 'appeared', 'developed', 'existed', 'suffered']
+arisen
+substitute word----------- occurred
+originial word--------- defect
+['problem', 'fraud', 'fault', 'error', 'flaw', 'mistake', 'failure', 'condition', 'weakness', 'dent']
+defect
+substitute word----------- fault
+originial word--------- materials
+['stones', 'supplies', 'products', 'substances', 'letters', 'compositions', 'methods', 'resources', 'elements', 'fabrics']
+materials
+substitute word----------- resources
+originial word--------- shall
+['may', 'will', 'should', 'must', 'can', 'would', 'cannot', 'do', 'could', 'till']
+shall
+substitute word----------- will
+originial word--------- shall
+['will', 'may', 'does', 'must', 'would', 'do', 'should', 'can', 'is', 'need']
+shall
+substitute word----------- will
+originial word--------- apply
+['matter', 'exist', 'work', 'use', 'allow', 'account', 'serve', 'remain', 'effect', 'operate']
+apply
+substitute word----------- work
+The regulations of Articles 667 and 668 will not work if the fault in the finished matter of the work has occurred through the nature of the supplies provided by the person who ordered the work , or by reason of orders given by him : Provided , That this will not apply if the engineer , knowing the nature of the resources or instructions , has failed to inform the person who ordered the work .
+Even where there was a special agreement between the parties that the contractor shall not be bound by warranty liabilities mentioned in Articles 667 and 668, he may not be relieved of liabilities with respect to the defects in workmanship or materials of which he was aware and nevertheless failed to give notice.
+originial word--------- liabilities
+['obligations', 'duties', 'debts', 'losses', 'responsibilities', 'creditors', 'responsibility', 'claims', 'those', 'judgments']
+liabilities
+substitute word----------- obligations
+originial word--------- relieved
+['freed', 'assured', 'discharged', 'acquitted', 'removed', 'conceived', 'cleared', 'deprived', 'treated', 'cancelled']
+relieved
+substitute word----------- relieved
+originial word--------- contractor
+['plaintiff', 'producer', 'manufacturer', 'employer', 'commissioner', 'owner', 'secretary', 'director', 'engineer', 'performer']
+contractor
+substitute word----------- owner
+originial word--------- liabilities
+['obligations', 'conditions', 'debts', 'duties', 'provisions', 'rights', 'cases', 'terms', 'penalties', 'assets']
+liabilities
+substitute word----------- obligations
+originial word--------- materials
+['resources', 'items', 'substances', 'stones', 'metals', 'funds', 'processes', 'parts', 'facilities', 'elements']
+materials
+substitute word----------- items
+originial word--------- nevertheless
+['nonetheless', 'therefore', 'afterwards', 'yet', 'ultimately', 'subsequently', 'arguably', 'simultaneously', 'still', 'however']
+nevertheless
+substitute word----------- nevertheless
+originial word--------- bound
+['tied', 'held', 'ground', 'contracted', 'stretched', 'led', 'kept', 'backed', 'set', 'binding']
+bound
+substitute word----------- tied
+originial word--------- warranty
+['the', 'any', 'those', 'contract', 'covenant', 'security', 'their', 'certain', 'mutual', 'general']
+warranty
+substitute word----------- any
+originial word--------- workmanship
+['labour', 'service', 'artwork', 'art', 'equipment', 'machinery', 'repair', 'quality', 'matter', 'material']
+workmanship
+substitute word----------- service
+originial word--------- shall
+['should', 'may', 'need', 'must', 'could', 'will', 'would', 'be', 'needs', 'is']
+shall
+substitute word----------- will
+originial word--------- defects
+['irregularities', 'improvements', 'errors', 'alterations', 'flaws', 'problems', 'changes', 'duties', 'dangers', 'variations']
+defects
+substitute word----------- problems
+originial word--------- agreement
+['arrangement', 'understanding', 'accord', 'contract', 'consensus', 'announcement', 'deal', 'treaty', 'relationship', 'accommodation']
+agreement
+substitute word----------- contract
+originial word--------- mentioned
+['named', 'discussed', 'cited', 'listed', 'called', 'found', 'stated', 'noted', 'quoted', 'promised']
+mentioned
+substitute word----------- mentioned
+originial word--------- respect
+['regard', 'reference', 'relation', 'application', 'attention', 'connection', 'regards', 'relative', 'consideration', 'ground']
+respect
+substitute word----------- regard
+Even where there was a special contract between the parties that the owner will not be tied by any obligations mentioned in Articles 667 and 668 , he may not be relieved of obligations with regard to the problems in service or items of which he was aware and nevertheless failed to give notice .
+One's lineal ascendants and lineal descendants shall be one's lineal blood relatives. One's brothers and sisters, brother's and sister's lineal descendants, brothers and sisters of one's lineal ascendants and such brother's and sister's lineal descendants shall be considered collateral blood relatives. Amended by Act No. 4199, Jan. 13, 1990
+originial word--------- relatives
+['kin', 'descendants', 'cousins', 'members', 'persons', 'families', 'heirs', 'groups', 'ties', 'lines']
+relatives
+substitute word----------- members
+originial word--------- collateral
+['terminal', 'principal', 'secondary', 'intermediate', 'primary', 'contingent', 'subsidiary', 'senior', 'additional', 'living']
+collateral
+substitute word----------- primary
+originial word--------- descendants
+['relatives', 'offspring', 'ancestors', 'heirs', 'grandchildren', 'children', 'successors', 'siblings', 'survivors', 'representatives']
+descendants
+substitute word----------- ancestors
+originial word--------- Amended
+['enacted', 'repealed', 'altered', 'empowered', 'updated', 'authorized', 'introduced', 'approved', 'modified', 'adopted']
+Amended
+substitute word----------- approved
+originial word--------- ascendants
+['descendants', 'relatives', 'ancestors', 'descent', 'descendant', 'heirs', 'siblings', 'ancestor', 'ancestry', 'family']
+ascendants
+substitute word----------- ancestors
+originial word--------- ascendants
+['relatives', 'ancestors', 'descendants', 'heirs', 'as', 'descent', 'siblings', 'ancestry', 'parents', 'peers']
+ascendants
+substitute word----------- ancestors
+originial word--------- descendants
+['relatives', 'grandchildren', 'ancestors', 'offspring', 'heirs', 'families', 'children', 'generations', 'lines', 'relations']
+descendants
+substitute word----------- relatives
+originial word--------- descendants
+['ancestors', 'heirs', 'relatives', 'successors', 'grandchildren', 'offspring', 'daughters', 'families', 'children', 'sisters']
+descendants
+substitute word----------- ancestors
+originial word--------- relatives
+['cousins', 'kin', 'siblings', 'uncles', 'grandparents', 'neighbors', 'ancestors', 'members', 'descendants', 'heirs']
+relatives
+substitute word----------- relatives
+originial word--------- lineal
+['direct', 'family', 'primary', 'senior', 'blood', 'own', 'relative', 'original', 'other', 'genealogical']
+lineal
+substitute word----------- direct
+originial word--------- lineal
+['family', 'senior', 'and', 'own', 'male', 'brothers', 'paternal', 'hereditary', 'genealogical', 'other']
+lineal
+substitute word----------- family
+originial word--------- lineal
+['collateral', 'direct', 'genealogical', 'immediate', 'family', 'blood', 'indirect', 'distant', 'descendant', 'senior']
+lineal
+substitute word----------- direct
+originial word--------- lineal
+['female', 'collateral', 'immediate', 'direct', 'blood', 'male', 'family', 'distant', 'genealogical', 'descendant']
+lineal
+substitute word----------- direct
+originial word--------- lineal
+['collateral', 'closest', 'full', 'close', 'family', 'nearest', 'senior', 'first', 'maternal', 'paternal']
+lineal
+substitute word----------- closest
+originial word--------- lineal
+['their', 'such', 'its', 'so', 'as', 'whose', 'the', 'female', 'his', 'senior']
+lineal
+substitute word----------- such
+originial word--------- shall
+['will', 'must', 'may', 'should', 'would', 'cannot', 'can', 'are', 'to', 'therefore']
+shall
+substitute word----------- will
+originial word--------- considered
+['called', 'respected', 'deemed', 'titled', 'recognized', 'known', 'the', 'made', 'granted', 'certified']
+considered
+substitute word----------- called
+originial word--------- shall
+['will', 'may', 'would', 'must', 'can', 'till', 'should', 'cannot', 'need', 'foul']
+shall
+substitute word----------- will
+One 's family ancestors and such ancestors will be one 's closest blood relatives . One 's brothers and sisters , brother 's and sister 's direct ancestors , brothers and sisters of one 's direct ancestors and such brother 's and sister 's direct relatives will be called primary blood members . approved by Act No . 4199 , Jan. 13 , 1990
+No person who falls under any one of the following subparagraphs may become the inheritor: Amended by Act No. 4199, Jan. 13, 1990 Act No. 7427, Mar. 31, 2005
+originial word--------- subparagraphs
+['conditions', 'categories', 'sections', 'components', 'criteria', 'guidelines', 'provisions', 'restrictions', 'jurisdictions', 'classifications']
+subparagraphs
+substitute word----------- conditions
+originial word--------- inheritor
+['heir', 'successor', 'owner', 'orphan', 'master', 'victim', 'incumbent', 'heirs', 'estate', 'winner']
+inheritor
+substitute word----------- heir
+originial word--------- Amended
+['modified', 'revised', 'altered', 'introduced', 'enacted', 'incorporated', 'abolished', 'updated', 'expanded', 'adopted']
+Amended
+substitute word----------- modified
+originial word--------- falls
+['fell', 'comes', 'is', 'lies', 'remains', 'passes', 'sets', 'stands', 'lives', 'rests']
+falls
+substitute word----------- comes
+No person who comes under any one of the following conditions may become the heir : modified by Act No . 4199 , Jan. 13 , 1990 Act No . 7427 , Mar . 31 , 2005
+A person who has intentionally killed or attempted to kill a lineal ascendant, the inheritee, his or her spouse, or any person who has priority or is in the same order of inheritance
+originial word--------- intentionally
+['either', 'accidentally', 'deliberately', 'illegally', 'successfully', 'purposely', 'legally', 'accurately', 'voluntarily', 'apparently']
+intentionally
+substitute word----------- either
+originial word--------- attempted
+['tried', 'intended', 'failed', 'made', 'planned', 'aimed', 'hoped', 'managed', 'able', 'begun']
+attempted
+substitute word----------- tried
+originial word--------- inheritee
+['heir', 'heiress', 'owner', 'successor', 'recipient', 'deceased', 'incumbent', 'landowner', 'orphan', 'holder']
+inheritee
+substitute word----------- heir
+originial word--------- inheritance
+['succession', 'adoption', 'absorption', 'execution', 'distribution', 'assumption', 'accumulation', 'accession', 'ancestry', 'attendance']
+inheritance
+substitute word----------- execution
+originial word--------- spouse
+['wife', 'fiancee', 'parent', 'partner', 'stepfather', 'widow', 'husband', 'consort', 'stepmother', 'householder']
+spouse
+substitute word----------- wife
+originial word--------- ascendant
+['heir', 'descendant', 'ancestor', 'successor', 'predecessor', 'carrier', 'member', 'descent', 'rival', 'monarch']
+ascendant
+substitute word----------- heir
+originial word--------- priority
+['precedence', 'preference', 'responsibility', 'importance', 'ranked', 'succession', 'choice', 'first', 'rank', 'prestige']
+priority
+substitute word----------- responsibility
+originial word--------- lineal
+['hereditary', 'family', 'female', 'natural', 'male', 'collateral', 'common', 'senior', 'genetic', 'traditional']
+lineal
+substitute word----------- natural
+A person who has either killed or tried to kill a natural heir , the heir , his or her wife , or any person who has responsibility or is in the same order of execution
+A person who has intentionally assaulted a lineal ascendant, the inheritee or his or her spouse, and caused their death
+originial word--------- intentionally
+['deliberately', 'purposely', 'illegally', 'accidentally', 'seriously', 'legally', 'actually', 'officially', 'entirely', 'successfully']
+intentionally
+substitute word----------- deliberately
+originial word--------- assaulted
+['attacked', 'violated', 'abused', 'hit', 'raped', 'invaded', 'penetrated', 'harassed', 'battered', 'beaten']
+assaulted
+substitute word----------- attacked
+originial word--------- inheritee
+['heir', 'heiress', 'estate', 'owner', 'heirs', 'incumbent', 'orphan', 'landowner', 'successor', 'title']
+inheritee
+substitute word----------- heir
+originial word--------- spouse
+['wife', 'consort', 'parent', 'partner', 'householder', 'fiancee', 'husband', 'couple', 'stepmother', 'fiance']
+spouse
+substitute word----------- wife
+originial word--------- ascendant
+['descendant', 'ancestor', 'heir', 'sibling', 'parent', 'relative', 'offspring', 'kin', 'member', 'rival']
+ascendant
+substitute word----------- heir
+originial word--------- lineal
+['family', 'descendant', 'hereditary', 'direct', 'senior', 'male', 'previous', 'female', 'high', 'chief']
+lineal
+substitute word----------- family
+A person who has deliberately attacked a family heir , the heir or his or her wife , and caused their death
+A person who interferes by fraud or duress with a will or withdrawal of a will on inheritance of the inheritee
+originial word--------- fraud
+['trick', 'falsely', 'ruse', 'deception', 'fee', 'corruption', 'theft', 'sickness', 'cheating', 'defect']
+fraud
+substitute word----------- deception
+originial word--------- withdrawal
+['removal', 'cancellation', 'repeal', 'rejection', 'loss', 'dismissal', 'suspension', 'exclusion', 'closure', 'revision']
+withdrawal
+substitute word----------- loss
+originial word--------- interferes
+['assists', 'argues', 'difficulties', 'conflicts', 'deals', 'participates', 'influences', 'clashes', 'arrives', 'engages']
+interferes
+substitute word----------- conflicts
+originial word--------- inheritance
+['estate', 'death', 'issue', 'succession', 'retirement', 'account', 'interest', 'ownership', 'income', 'accession']
+inheritance
+substitute word----------- estate
+originial word--------- duress
+['trick', 'deception', 'force', 'compulsion', 'neglect', 'pressure', 'influence', 'fraud', 'restraint', 'manipulation']
+duress
+substitute word----------- force
+originial word--------- inheritee
+['estate', 'orphan', 'heir', 'deceased', 'owner', 'heiress', 'offspring', 'original', 'individual', 'heirs']
+inheritee
+substitute word----------- estate
+A person who conflicts by deception or force with a will or loss of a will on estate of the estate
+A person who, by fraud or duress, has the inheritee make a will on his or her inheritance
+originial word--------- fraud
+['trick', 'deception', 'crime', 'default', 'mistake', 'ruse', 'courtesy', 'theft', 'sickness', 'disguise']
+fraud
+substitute word----------- mistake
+originial word--------- inheritance
+['estate', 'heir', 'property', 'ancestry', 'asset', 'account', 'offspring', 'endowment', 'immortality', 'interest']
+inheritance
+substitute word----------- estate
+originial word--------- inheritee
+['heiress', 'heir', 'owner', 'estate', 'orphan', 'applicant', 'heirs', 'offspring', 'recipient', 'individual']
+inheritee
+substitute word----------- owner
+originial word--------- duress
+['force', 'deception', 'demand', 'fraud', 'compulsion', 'trick', 'circumstance', 'distress', 'influence', 'persuasion']
+duress
+substitute word----------- force
+A person who , by mistake or force , has the owner make a will on his or her estate
+A person who forges, alters, destroys or conceals a will on inheritance of the inheritee.
+originial word--------- inheritance
+['estate', 'election', 'heir', 'death', 'account', 'injury', 'appeal', 'issue', 'award', 'income']
+inheritance
+substitute word----------- estate
+originial word--------- inheritee
+['heir', 'estate', 'heiress', 'owner', 'orphan', 'deceased', 'applicant', 'successor', 'heirs', 'individual']
+inheritee
+substitute word----------- estate
+originial word--------- conceals
+['hides', 'reveals', 'destroys', 'ruins', 'shadows', 'preserves', 'removes', 'documents', 'transports', 'sheds']
+conceals
+substitute word----------- hides
+originial word--------- forges
+['finds', 'makes', 'stages', 'works', 'creates', 'builds', 'generates', 'copies', 'plans', 'improves']
+forges
+substitute word----------- makes
+originial word--------- destroys
+['ruins', 'repairs', 'removes', 'damages', 'preserves', 'kills', 'terminates', 'disrupt', 'creates', 'intersects']
+destroys
+substitute word----------- kills
+originial word--------- alters
+['creates', 'changes', 'destroys', 'splits', 'copies', 'writes', 'breaks', 'updates', 'damages', 'replaces']
+alters
+substitute word----------- creates
+A person who makes , creates , kills or hides a will on estate of the estate .
+If an obligor fails to effect performance in accordance with the tenor and purport of the obligation, the obligee may claim damages: Provided, That this shall not apply to where performance has become impossible and where this is not due to the obligor's intention or negligence.
+originial word--------- obligation
+['expectation', 'undertaking', 'requirement', 'order', 'operation', 'agreement', 'contract', 'debt', 'owe', 'duty']
+obligation
+substitute word----------- duty
+originial word--------- accordance
+['compliance', 'agreement', 'keeping', 'harmony', 'conjunction', 'adherence', 'consistency', 'comply', 'tune', 'execution']
+accordance
+substitute word----------- agreement
+originial word--------- negligence
+['liability', 'competence', 'charity', 'malice', 'indifference', 'default', 'responsibility', 'fraud', 'compensation', 'blindness']
+negligence
+substitute word----------- liability
+originial word--------- intention
+['aim', 'purpose', 'idea', 'reason', 'want', 'plan', 'ambition', 'desire', 'mind', 'meaning']
+intention
+substitute word----------- purpose
+originial word--------- impossible
+['difficult', 'unlikely', 'unable', 'possible', 'uncertain', 'unreasonable', 'illegal', 'unsuccessful', 'unacceptable', 'inaccessible']
+impossible
+substitute word----------- difficult
+originial word--------- performance
+['concert', 'presentation', 'production', 'delivery', 'presence', 'recital', 'execution', 'treatment', 'service', 'participation']
+performance
+substitute word----------- performance
+originial word--------- obligor
+['actor', 'instrument', 'auditor', 'employer', 'officer', 'individual', 'employee', 'adversary', 'operator', 'entity']
+obligor
+substitute word----------- actor
+originial word--------- performance
+['this', 'it', 'completion', 'execution', 'production', 'acting', 'attendance', 'work', 'payment', 'recovery']
+performance
+substitute word----------- production
+originial word--------- damages
+['losses', 'injuries', 'compensation', 'claims', 'rights', 'actions', 'liability', 'sue', 'burns', 'wounds']
+damages
+substitute word----------- rights
+originial word--------- obligee
+['plaintiff', 'court', 'party', 'company', 'receiver', 'defendant', 'employer', 'person', 'seller', 'auditor']
+obligee
+substitute word----------- plaintiff
+originial word--------- tenor
+['tempo', 'burt', 'manner', 'vicar', 'singer', 'form', 'variety', 'soprano', 'opera', 'vocal']
+tenor
+substitute word----------- manner
+originial word--------- obligor
+['performer', 'actor', 'bearer', 'defendant', 'person', 'plaintiff', 'individual', 'provider', 'participant', 'client']
+obligor
+substitute word----------- defendant
+originial word--------- purport
+['expectation', 'conception', 'command', 'manifestation', 'effect', 'intent', 'failure', 'principle', 'disposition', 'promise']
+purport
+substitute word----------- effect
+originial word--------- shall
+['will', 'may', 'should', 'must', 'is', 'does', 'din', 'labour', 'precinct', 'would']
+shall
+substitute word----------- will
+If an actor fails to effect performance in agreement with the manner and effect of the duty , the plaintiff may claim rights : Provided , That this will not apply to where production has become difficult and where this is not due to the defendant 's purpose or liability .
+Any person who causes losses to or inflicts injuries on another person by an unlawful act, intentionally or negligently, shall be bound to make compensation for damages arising therefrom.
+originial word--------- compensation
+['payment', 'relief', 'remedy', 'receipt', 'satisfaction', 'provision', 'consideration', 'responsibility', 'tender', 'pay']
+compensation
+substitute word----------- payment
+originial word--------- intentionally
+['deliberately', 'purposely', 'illegally', 'essentially', 'legally', 'accidentally', 'otherwise', 'voluntarily', 'exactly', 'substantially']
+intentionally
+substitute word----------- deliberately
+originial word--------- injuries
+['damages', 'wounds', 'attacks', 'bruises', 'scars', 'effects', 'damage', 'disabilities', 'accidents', 'errors']
+injuries
+substitute word----------- wounds
+originial word--------- unlawful
+['illegal', 'unauthorized', 'lawful', 'arbitrary', 'irregular', 'involuntary', 'evil', 'illicit', 'unnecessary', 'illegitimate']
+unlawful
+substitute word----------- illegal
+originial word--------- negligently
+['accidentally', 'not', 'intentionally', 'inadvertently', 'deliberately', 'systematically', 'purposely', 'naturally', 'mistakenly', 'otherwise']
+negligently
+substitute word----------- accidentally
+originial word--------- therefrom
+['abroad', 'here', 'within', 'elsewhere', 'respectively', 'where', 'together', 'between', 'generally', 'everywhere']
+therefrom
+substitute word----------- here
+originial word--------- inflicts
+['causes', 'performs', 'applies', 'commits', 'lays', 'lands', 'does', 'impacts', 'creates', 'suffers']
+inflicts
+substitute word----------- causes
+originial word--------- damages
+['injuries', 'claims', 'wounds', 'distress', 'tissues', 'losses', 'repairs', 'defects', 'lawsuits', 'actions']
+damages
+substitute word----------- injuries
+originial word--------- bound
+['required', 'directed', 'obliged', 'tied', 'free', 'forced', 'compelled', 'contracted', 'duty', 'ground']
+bound
+substitute word----------- forced
+originial word--------- arising
+['suffering', 'occurring', 'generated', 'derived', 'arose', 'emerging', 'stemming', 'prevailing', 'originating', 'resulting']
+arising
+substitute word----------- resulting
+Any person who causes losses to or causes wounds on another person by an illegal act , deliberately or accidentally , shall be forced to make payment for injuries resulting here .
+The compensation for damages arising from the non-performance of an obligation shall be limited to ordinary damages.
+originial word--------- compensation
+['payment', 'relief', 'liability', 'remedy', 'charity', 'damages', 'responsibility', 'treatment', 'prize', 'claim']
+compensation
+substitute word----------- payment
+originial word--------- obligation
+['expectation', 'duty', 'liability', 'responsibility', 'inability', 'undertaking', 'asset', 'contract', 'interest', 'imperative']
+obligation
+substitute word----------- duty
+originial word--------- non-performance
+['performance', 'failure', 'fulfillment', 'satisfaction', 'performing', 'completion', 'service', 'violation', 'breach', 'practice']
+non-performance
+substitute word----------- performance
+originial word--------- damages
+['injuries', 'repairs', 'losses', 'fines', 'proceeds', 'actions', 'costs', 'claims', 'those', 'consequences']
+damages
+substitute word----------- losses
+originial word--------- arising
+['resulting', 'owing', 'stemming', 'derived', 'due', 'resultant', 'occurring', 'arose', 'relating', 'suffering']
+arising
+substitute word----------- resulting
+originial word--------- damages
+['compensation', 'measures', 'fines', 'actions', 'losses', 'suits', 'prizes', 'claims', 'wages', 'causes']
+damages
+substitute word----------- actions
+originial word--------- ordinary
+['extraordinary', 'regular', 'normal', 'usual', 'average', 'original', 'everyday', 'natural', 'civil', 'unpaid']
+ordinary
+substitute word----------- normal
+originial word--------- shall
+['should', 'may', 'will', 'must', 'cannot', 'would', 'can', 'to', 'et', '...']
+shall
+substitute word----------- should
+The payment for losses resulting from the performance of an duty should be limited to normal actions .
+The obligor is responsible for reparation for damages that have arisen through special circumstances, only if he had foreseen or could have foreseen such circumstances.
+originial word--------- reparation
+['recovery', 'compensation', 'redemption', 'retribution', 'relief', 'punishment', 'recovering', 'payment', 'damages', 'responsibility']
+reparation
+substitute word----------- compensation
+originial word--------- circumstances
+['situations', 'conditions', 'cases', 'occasions', 'events', 'causes', 'reasons', 'times', 'means', 'contexts']
+circumstances
+substitute word----------- circumstances
+originial word--------- circumstances
+['conditions', 'situations', 'occasions', 'events', 'times', 'matters', 'consequences', 'cases', 'factors', 'things']
+circumstances
+substitute word----------- circumstances
+originial word--------- responsible
+['accountable', 'present', 'liable', 'charged', 'concerned', 'credited', 'appointed', 'subject', 'provided', 'given']
+responsible
+substitute word----------- responsible
+originial word--------- obligor
+['plaintiff', 'defendant', 'receiver', 'accused', 'offender', 'recipient', 'owner', 'inventor', 'victim', 'officer']
+obligor
+substitute word----------- plaintiff
+originial word--------- damages
+['losses', 'gifts', 'causes', 'repairs', 'injuries', 'tears', 'burns', 'effects', 'defects', 'harm']
+damages
+substitute word----------- losses
+originial word--------- foreseen
+['predicted', 'anticipated', 'envisioned', 'prevented', 'known', 'planned', 'seen', 'avoided', 'conceived', 'contemplated']
+foreseen
+substitute word----------- predicted
+originial word--------- foreseen
+['predicted', 'known', 'anticipated', 'planned', 'not', 'seen', ',', 'hoped', 'already', 'intended']
+foreseen
+substitute word----------- predicted
+originial word--------- arisen
+['emerged', 'arose', 'risen', 'occurred', 'erupted', 'unfolded', 'developed', 'subsided', 'suffered', 'come']
+arisen
+substitute word----------- occurred
+The plaintiff is responsible for compensation for losses that have occurred through special circumstances , only if he had predicted or could have predicted such circumstances .
+A compromise shall become effective when the parties have agreed to terminate a dispute between them by mutual concessions.
+originial word--------- compromise
+['concession', 'consensus', 'reconciliation', 'solution', 'substitute', 'contract', 'settlement', 'negotiation', 'convention', 'scheme']
+compromise
+substitute word----------- contract
+originial word--------- terminate
+['end', 'cease', 'dissolve', 'ending', 'resolve', 'halt', 'conclude', 'ends', 'settle', 'engage']
+terminate
+substitute word----------- end
+originial word--------- concessions
+['grants', 'sacrifices', 'proposals', 'commitments', 'adjustments', 'deals', 'agreements', 'gains', 'compromise', 'choices']
+concessions
+substitute word----------- sacrifices
+originial word--------- dispute
+['conflict', 'contest', 'claim', 'controversy', 'quarrel', 'tension', 'matter', 'difference', 'argument', 'problem']
+dispute
+substitute word----------- conflict
+originial word--------- mutual
+['collective', 'reciprocal', 'minimum', 'common', 'maximum', 'monetary', 'medical', 'mere', 'joint', 'musical']
+mutual
+substitute word----------- common
+originial word--------- shall
+['may', 'will', 'should', 'must', 'cannot', 'would', 'can', 'is', 'en', '...']
+shall
+substitute word----------- will
+originial word--------- effective
+['operative', 'operational', 'available', 'ineffective', 'official', 'active', 'enforced', 'applied', 'functional', 'apparent']
+effective
+substitute word----------- active
+A contract will become active when the parties have agreed to end a conflict between them by common sacrifices .
+A contract of a compromise may not be canceled on the ground of a mistake: Provided, That this shall not be the case where such a mistake is concerned with the matters relating to the qualification of either party of a compromise or any matters other than those which are pertinent to the dispute subject to the compromise.
+originial word--------- compromise
+['concession', 'contract', 'substitute', 'covenant', 'solution', 'pact', 'sacrifice', 'peace', 'negotiation', 'promise']
+compromise
+substitute word----------- contract
+originial word--------- compromise
+['burden', 'concession', 'covenant', 'offense', 'sacrifice', 'contest', 'prize', 'contract', 'distinction', 'scheme']
+compromise
+substitute word----------- contract
+originial word--------- compromise
+['contract', 'dispute', 'conflict', 'peace', 'concession', 'strike', 'decision', 'change', 'challenge', 'balance']
+compromise
+substitute word----------- dispute
+originial word--------- qualification
+['candidacy', 'disqualification', 'certification', 'application', 'eligibility', 'preparation', 'designation', 'contention', 'nomination', 'competence']
+qualification
+substitute word----------- application
+originial word--------- canceled
+['terminated', 'activated', 'restored', 'discontinued', 'erased', 'granted', 'revoked', 'null', 'deleted', 'diminished']
+canceled
+substitute word----------- terminated
+originial word--------- contract
+['promise', 'clause', 'sale', 'document', 'deal', 'marriage', 'bridge', 'compromise', 'covenant', 'combination']
+contract
+substitute word----------- deal
+originial word--------- dispute
+['contest', 'matter', 'controversy', 'question', 'problem', 'relation', 'contention', 'conflict', 'correspondence', 'issue']
+dispute
+substitute word----------- matter
+originial word--------- pertinent
+['relevant', 'devoted', 'subject', 'related', 'proper', 'crucial', 'vital', 'relating', 'fundamental', 'concerned']
+pertinent
+substitute word----------- relevant
+originial word--------- concerned
+['involved', 'dealt', 'discussed', 'affected', 'reached', 'charged', 'sought', 'disputed', 'aimed', 'associated']
+concerned
+substitute word----------- involved
+originial word--------- matters
+['things', 'issues', 'questions', 'measures', 'subjects', 'grounds', 'terms', 'affairs', 'concerns', 'topics']
+matters
+substitute word----------- things
+originial word--------- shall
+['may', 'will', 'should', 'ought', 'is', 'must', 'would', 'might', 'labour', 'does']
+shall
+substitute word----------- will
+originial word--------- relating
+['governing', 'corresponding', 'belonging', 'leading', 'subject', 'referring', 'owing', 'regarding', 'pertaining', 'due']
+relating
+substitute word----------- subject
+originial word--------- subject
+['due', 'given', 'refer', 'taken', 'of', 'according', 'close', 'set', 'referred', ',']
+subject
+substitute word----------- due
+originial word--------- mistake
+['difference', 'decision', 'change', 'problem', 'distinction', 'choice', 'fault', 'compromise', 'reason', 'loss']
+mistake
+substitute word----------- problem
+originial word--------- matters
+['things', 'questions', 'issues', 'facts', 'affairs', 'circumstances', 'areas', 'claims', 'terms', 'cases']
+matters
+substitute word----------- things
+A deal of a contract may not be terminated on the ground of a mistake : Provided , That this will not be the case where such a problem is involved with the things subject to the application of either party of a contract or any things other than those which are relevant to the matter due to the dispute .
+A juristic act which has conspicuously lost fairness through strained circumstances, rashness, or inexperience of the parties shall be null and void.
+originial word--------- conspicuously
+['noticeably', 'prominently', 'systematically', 'notably', 'subtly', 'dramatically', 'clearly', 'suddenly', 'plainly', 'probably']
+conspicuously
+substitute word----------- clearly
+originial word--------- inexperience
+['ignorance', 'innocence', 'error', 'negligence', 'application', 'invention', 'indifference', 'impatience', 'arrogance', 'stupidity']
+inexperience
+substitute word----------- ignorance
+originial word--------- strained
+['forced', 'squeezed', 'cramped', 'weakened', 'bruised', 'flawed', 'neglected', 'weak', 'sore', 'matched']
+strained
+substitute word----------- forced
+originial word--------- circumstances
+['situations', 'conditions', 'surroundings', 'times', 'occasions', 'facts', 'difficulties', 'straits', 'manners', 'experiences']
+circumstances
+substitute word----------- circumstances
+originial word--------- fairness
+['justice', 'utility', 'prejudice', 'innocence', 'equality', 'equity', 'enjoyment', 'injustice', 'judgment', 'court']
+fairness
+substitute word----------- justice
+originial word--------- juristic
+['judicial', 'legal', 'literary', 'civil', 'legislative', 'certain', 'political', 'criminal', 'divine', 'democratic']
+juristic
+substitute word----------- legal
+originial word--------- rashness
+['negligence', 'haste', 'ignorance', 'stupidity', 'misunderstanding', 'indifference', 'cruelty', 'weakness', 'neglect', 'insanity']
+rashness
+substitute word----------- negligence
+originial word--------- void
+['valid', 'invalid', 'null', 'condemned', 'not', 'meaningless', 'vacant', 'clear', 'run', 'terminated']
+void
+substitute word----------- meaningless
+originial word--------- null
+['void', 'binding', 'valid', 'blank', 'dead', 'fixed', 'dissolved', 'severed', 'clear', 'legal']
+null
+substitute word----------- void
+A legal act which has clearly lost justice through forced circumstances , negligence , or ignorance of the parties shall be void and meaningless .
+If a period has been fixed by the day, week, month or year, the first day of such period shall not be included in the computation: Provided, That this shall not apply if the period begins at midnight.
+originial word--------- computation
+['calculation', 'reasoning', 'calculations', 'derivation', 'calculating', 'simulation', 'procedure', 'system', 'table', 'substitution']
+computation
+substitute word----------- calculations
+originial word--------- fixed
+['given', 'determined', 'defined', 'assigned', 'marked', 'scheduled', 'specified', 'held', 'set', 'contained']
+fixed
+substitute word----------- determined
+originial word--------- shall
+['will', 'may', 'is', 'need', 'would', 'does', 'do', 'per', 'labour', 'should']
+shall
+substitute word----------- will
+originial word--------- begins
+['ends', 'is', 'continues', 'starts', 'concludes', 'occurs', 'remains', 'meets', 'opens', 'lies']
+begins
+substitute word----------- ends
+originial word--------- shall
+['will', 'should', 'may', 'must', 'is', 'cannot', 'would', ',', 'can', 'need']
+shall
+substitute word----------- will
+If a period has been determined by the day , week , month or year , the first day of such period will not be included in the calculations : Provided , That this will not apply if the period ends at midnight .
+Where the last day of a period falls on a Saturday or a national holiday, such period shall mature on the following day. Amended by Act No. 8720, Dec. 21, 2007
+originial word--------- Amended
+['altered', 'enacted', 'modified', 'repealed', 'revised', 'updated', 'reformed', 'adapted', 'adopted', 'added']
+Amended
+substitute word----------- modified
+originial word--------- mature
+['progress', 'blossom', 'develop', 'commence', 'age', 'flourish', 'cycle', 'advance', 'aggregate', 'reproduce']
+mature
+substitute word----------- progress
+originial word--------- holiday
+['vacation', 'day', 'weekday', 'date', 'festival', 'weekend', 'mandate', 'journey', 'theme', 'feast']
+holiday
+substitute word----------- day
+originial word--------- falls
+['occurs', 'lies', 'fell', 'is', 'remains', 'stands', 'rests', 'reflects', 'sits', 'appears']
+falls
+substitute word----------- fell
+originial word--------- shall
+['may', 'should', 'must', 'southward', 'will', 'cannot', 'would', 'can', 'commence', 'commenced']
+shall
+substitute word----------- will
+Where the last day of a period fell on a Saturday or a national day , such period will progress on the following day . modified by Act No . 8720 , Dec. 21 , 2007
+The method of computing the period of time shall be governed by the provisions of this Chapter, unless it is otherwise provided by statutes by a judicial disposition or a juristic act.
+originial word--------- computing
+['calculating', 'determining', 'calculation', 'rounding', 'processing', 'obtaining', 'finding', 'reducing', 'converting', 'varying']
+computing
+substitute word----------- calculating
+originial word--------- provisions
+['sections', 'regulations', 'contents', 'doctrines', 'requirements', 'portions', 'distinctions', 'clauses', 'section', 'passages']
+provisions
+substitute word----------- regulations
+originial word--------- disposition
+['resolution', 'determination', 'division', 'transaction', 'inventory', 'publication', 'record', 'decision', 'proceeding', 'judgment']
+disposition
+substitute word----------- decision
+originial word--------- governed
+['guided', 'defined', 'regulated', 'ruled', 'described', 'controlled', 'determined', 'managed', 'bound', 'protected']
+governed
+substitute word----------- defined
+originial word--------- statutes
+['laws', 'legislation', 'acts', ',', 'either', 'or', 'resolutions', 'portions', 'legislators', 'law']
+statutes
+substitute word----------- laws
+originial word--------- otherwise
+['elsewhere', 'else', 'generally', 'additionally', 'also', 'explicitly', 'instead', 'later', 'incorrectly', 'informally']
+otherwise
+substitute word----------- otherwise
+originial word--------- juristic
+['judicial', 'legislative', 'legal', 'statutory', 'similar', 'constitutional', 'procedural', 'general', 'formal', 'civil']
+juristic
+substitute word----------- legal
+originial word--------- shall
+['will', 'must', 'may', 'cannot', 'should', 'can', 'proper', 'would', 'till', 'have']
+shall
+substitute word----------- will
+originial word--------- judicial
+['legal', 'statutory', 'court', 'royal', 'constitutional', 'supreme', 'governmental', 'ruling', 'joint', 'legislative']
+judicial
+substitute word----------- legal
+originial word--------- method
+['manner', 'mode', 'means', 'form', 'procedure', 'system', 'mechanism', 'process', 'practice', 'matter']
+method
+substitute word----------- means
+originial word--------- provided
+['rendered', 'furnished', 'stated', 'established', 'directed', 'supplied', 'presented', 'granted', 'designated', 'required']
+provided
+substitute word----------- granted
+The means of calculating the period of time will be defined by the regulations of this Chapter , unless it is otherwise granted by laws by a legal decision or a legal act .
+If a period has been fixed by the day, week, month or year, the period shall mature upon the expiration of the last day of such period.
+originial word--------- expiration
+['end', 'ex', 'ending', 'exhaust', 'exhaustion', 'initiation', 'onset', 'issue', 'exercise', 'commencement']
+expiration
+substitute word----------- end
+originial word--------- fixed
+['determined', 'adjusted', 'settled', 'decided', 'locked', 'set', 'held', 'restricted', 'defined', 'given']
+fixed
+substitute word----------- determined
+originial word--------- shall
+['will', 'may', 'till', 'commence', 'must', 'cannot', 'should', 'termed', 'commenced', 'proceeds']
+shall
+substitute word----------- will
+originial word--------- mature
+['progress', 'blossom', 'develop', 'pioneer', 'flow', 'prime', 'retire', 'advance', 'launch', 'commence']
+mature
+substitute word----------- progress
+If a period has been determined by the day , week , month or year , the period will progress upon the end of the last day of such period .
+If the performance of an obligation of one of the parties to a bilateral contract becomes impossible by any cause for which the obligee is responsible, the obligor may demand counter-performance. The same applies to cases where performance becomes impossible by any cause for which neither of the parties is responsible in the case of mora creditoris.
+originial word--------- counter-performance
+['replacement', 'compensation', 'response', 'cancellation', 'relief', 'return', 'termination', 'performance', 'dismissal', 'action']
+counter-performance
+substitute word----------- compensation
+originial word--------- obligation
+['undertaking', 'activity', 'infringement', 'expectation', 'imperative', 'action', 'endeavour', 'inability', 'operation', 'opera']
+obligation
+substitute word----------- action
+originial word--------- impossible
+['unavailable', 'difficult', 'easy', 'unable', 'forbidden', 'unacceptable', 'possible', 'inaccessible', 'obligatory', 'feasible']
+impossible
+substitute word----------- difficult
+originial word--------- creditoris
+['contract', 'corpus', 'debt', 'approval', 'liability', 'bankruptcy', 'collateral', 'series', 'cruz', 'status']
+creditoris
+substitute word----------- contract
+originial word--------- impossible
+['unable', 'unavailable', 'insufficient', 'inaccessible', 'difficult', 'unacceptable', 'pointless', 'ineffective', 'possible', 'unlikely']
+impossible
+substitute word----------- difficult
+originial word--------- performance
+['payment', 'service', 'completion', 'execution', 'production', 'obligation', 'satisfaction', 'participation', 'employment', 'activity']
+performance
+substitute word----------- service
+originial word--------- responsible
+['liable', 'accountable', 'credited', 'blamed', 'guilty', 'accounted', 'due', 'sorry', 'known', 'present']
+responsible
+substitute word----------- responsible
+originial word--------- performance
+['completion', 'satisfaction', 'service', 'production', 'execution', 'contract', 'delivery', 'recording', 'placing', 'maintenance']
+performance
+substitute word----------- execution
+originial word--------- contract
+['agreement', 'treaty', 'covenant', 'marriage', 'pact', 'firm', 'debt', 'deal', 'partnership', 'union']
+contract
+substitute word----------- agreement
+originial word--------- responsible
+['liable', 'accountable', 'concerned', 'charged', 'blamed', 'credited', 'involved', 'present', 'accounted', 'due']
+responsible
+substitute word----------- responsible
+originial word--------- bilateral
+['foreign', 'federal', 'contractual', 'partnership', 'reciprocal', 'marital', 'valid', 'certain', 'governmental', 'domestic']
+bilateral
+substitute word----------- foreign
+originial word--------- applies
+['belongs', 'refers', 'happens', 'holds', 'relates', 'corresponds', 'occurs', 'cases', 'rules', 'extends']
+applies
+substitute word----------- applies
+originial word--------- obligee
+['plaintiff', 'actor', 'contractor', 'defendant', 'other', 'entity', 'latter', 'owner', 'party', 'provider']
+obligee
+substitute word----------- plaintiff
+originial word--------- demand
+['request', 'require', 'claim', 'seek', 'offer', 'desire', 'accept', 'need', 'provide', 'receive']
+demand
+substitute word----------- request
+originial word--------- obligor
+['latter', 'parties', 'party', 'seller', 'actor', 'plaintiff', 'contract', 'client', 'loser', 'performer']
+obligor
+substitute word----------- plaintiff
+originial word--------- mora
+['normal', 'casa', 'felix', 'terra', 'lex', 'null', 'de', 'mari', 'zero', 'penal']
+mora
+substitute word----------- normal
+If the execution of an action of one of the parties to a foreign agreement becomes difficult by any cause for which the plaintiff is responsible , the plaintiff may request compensation . The same applies to cases where service becomes difficult by any cause for which neither of the parties is responsible in the case of normal contract .
+In the cases of the preceding paragraph if the obligor has received any benefit by being relieved of his own obligation, he shall return such benefit to the obligee.
+originial word--------- obligation
+['responsibility', 'duty', 'debt', 'expectation', 'burden', 'constraint', 'honor', 'order', 'assignment', 'commitment']
+obligation
+substitute word----------- duty
+originial word--------- relieved
+['freed', 'free', 'deprived', 'acquitted', 'discharged', 'stripped', 'cured', 'removed', 'cleared', 'spared']
+relieved
+substitute word----------- discharged
+originial word--------- paragraph
+['clause', 'section', 'table', 'page', ',', 'sentence', 'provision', 'chapter', 'clauses', 'passage']
+paragraph
+substitute word----------- section
+originial word--------- obligor
+['bearer', 'householder', 'host', 'contractor', 'recipient', 'holder', 'officer', 'subject', 'employee', 'plaintiff']
+obligor
+substitute word----------- plaintiff
+originial word--------- preceding
+['following', 'earlier', 'prior', 'first', 'succeeding', 'above', 'ascending', 'before', 'remaining', 'adjoining']
+preceding
+substitute word----------- following
+originial word--------- obligee
+['recipient', 'bearer', 'plaintiff', 'provider', 'subordinate', 'employee', 'owner', 'receiver', 'officer', 'latter']
+obligee
+substitute word----------- plaintiff
+originial word--------- benefit
+['advantage', 'boon', 'relief', 'gain', 'bonus', 'credit', 'utility', 'aid', 'good', 'profit']
+benefit
+substitute word----------- advantage
+originial word--------- shall
+['may', 'till', 'will', 'whereby', 'southward', 'commence', 'respectively', 'labour', 'afterwards', 'cannot']
+shall
+substitute word----------- may
+In the cases of the following section if the plaintiff has received any advantage by being discharged of his own duty , he may return such benefit to the plaintiff .
+A minor shall obtain the consent of his or her legal representative to perform any juristic act: Provided, That exceptions shall be made where the juristic act concerned is one merely to acquire rights or to be relieved from obligations.
+originial word--------- representative
+['agent', 'delegate', 'relative', 'resident', 'parent', 'relation', 'lawyer', 'principal', 'distributor', 'producer']
+representative
+substitute word----------- agent
+originial word--------- exceptions
+['adjustments', 'accommodations', 'concessions', 'decisions', 'arrangements', 'agreements', 'amendments', 'restrictions', 'alternatives', 'considerations']
+exceptions
+substitute word----------- decisions
+originial word--------- acquire
+['obtain', 'attain', 'possess', 'accumulate', 'gain', 'develop', 'achieve', 'establish', 'secure', 'earn']
+acquire
+substitute word----------- obtain
+originial word--------- relieved
+['discharged', 'freed', 'shouldered', 'liberated', 'free', 'disposed', 'removed', 'dissipated', 'derived', 'cast']
+relieved
+substitute word----------- discharged
+originial word--------- obligations
+['responsibilities', 'duties', 'debts', 'requirements', 'payments', 'contracts', 'constraints', 'restrictions', 'commitments', 'liability']
+obligations
+substitute word----------- duties
+originial word--------- obtain
+['acquire', 'seek', 'achieve', 'gain', 'secure', 'receive', 'require', 'get', 'purchase', 'gather']
+obtain
+substitute word----------- seek
+originial word--------- perform
+['execute', 'conduct', 'do', 'undertake', 'complete', 'contract', 'fulfill', 'undergo', 'operate', 'doe']
+perform
+substitute word----------- execute
+originial word--------- consent
+['permission', 'assent', 'agreement', 'approval', 'cooperation', 'authorization', 'permit', 'decision', 'license', 'licence']
+consent
+substitute word----------- permission
+originial word--------- juristic
+['judicial', 'legal', 'such', 'charitable', 'lawful', 'divine', 'civil', 'judiciary', 'legislative', 'solemn']
+juristic
+substitute word----------- legal
+originial word--------- juristic
+['legal', 'judicial', 'specific', 'particular', 'primary', 'the', 'lawful', 'said', 'stated', 'medical']
+juristic
+substitute word----------- legal
+originial word--------- concerned
+['involved', 'discussed', 'comprised', 'encompassed', 'responsible', 'reached', 'targeted', 'celebrated', 'sought', 'specified']
+concerned
+substitute word----------- involved
+originial word--------- merely
+['only', 'solely', 'simply', 'but', 'sufficient', 'either', 'however', 'requiring', 'thereby', 'upon']
+merely
+substitute word----------- only
+originial word--------- minor
+['person', 'child', 'major', 'lesser', 'student', 'subject', 'small', 'citizen', 'youth', 'judge']
+minor
+substitute word----------- person
+originial word--------- shall
+['may', 'will', 'must', 'should', 'can', 'would', 'to', 'proper', 'could', 'cannot']
+shall
+substitute word----------- will
+originial word--------- legal
+['lawful', 'judicial', 'law', 'civil', 'military', 'professional', 'lawyer', 'public', 'constitutional', 'statutory']
+legal
+substitute word----------- law
+originial word--------- shall
+['may', 'will', 'can', 'should', 'must', 'cannot', 'are', 'to', 'need', 'not']
+shall
+substitute word----------- will
+A person will seek the permission of his or her law agent to execute any legal act : Provided , That decisions will be made where the legal act involved is one only to obtain rights or to be discharged from duties .
+Any act done in violation of the provision of the preceding paragraph is voidable.
+originial word--------- violation
+['ignorance', 'breach', 'defiance', 'excess', 'virtue', 'contradiction', 'corruption', 'respect', 'accordance', 'denial']
+violation
+substitute word----------- breach
+originial word--------- voidable
+['invalid', 'valid', 'legal', 'null', 'condemned', 'worthless', 'unconstitutional', 'banned', 'illegal', 'blank']
+voidable
+substitute word----------- illegal
+originial word--------- paragraph
+['clause', 'section', 'sentence', 'restriction', 'provision', 'chapter', 'page', 'division', 'table', 'subdivision']
+paragraph
+substitute word----------- section
+originial word--------- provision
+['section', 'portion', 'paragraph', 'requirement', 'restriction', 'principle', 'statement', 'passage', 'clause', 'condition']
+provision
+substitute word----------- requirement
+originial word--------- preceding
+['following', 'prior', 'succeeding', 'intervening', 'first', 'proceeding', 'descending', 'ascending', 'beforehand', 'determining']
+preceding
+substitute word----------- following
+Any act done in breach of the requirement of the following section is illegal .
+A person effecting performance may demand a receipt from the person accepting the performance.
+originial word--------- accepting
+['receiving', 'assuming', 'taking', 'undergoing', 'refusing', 'performing', 'supporting', 'executing', 'earning', 'issuing']
+accepting
+substitute word----------- receiving
+originial word--------- demand
+['require', 'claim', 'request', 'take', 'expect', 'need', 'desire', 'insist', 'refuse', 'order']
+demand
+substitute word----------- request
+originial word--------- receipt
+['payment', 'response', 'delivery', 'deposit', 'demand', 'donation', 'reward', 'repair', 'provision', 'distribution']
+receipt
+substitute word----------- payment
+originial word--------- performance
+['change', 'payment', 'production', 'it', 'meaning', 'improvement', 'this', 'transformation', 'recovery', 'behavior']
+performance
+substitute word----------- change
+originial word--------- effecting
+['affecting', 'influencing', 'producing', 'initiating', 'causing', 'achieving', 'undergoing', 'receiving', 'experiencing', 'seeking']
+effecting
+substitute word----------- affecting
+originial word--------- performance
+['payment', 'result', 'task', 'duty', 'service', 'response', 'function', 'request', 'role', 'work']
+performance
+substitute word----------- service
+A person affecting change may request a payment from the person receiving the service .
+The extinctive prescription of a claim shall become complete if not exercised for a period of ten years.
+originial word--------- prescription
+['description', 'prohibition', 'decree', 'purification', 'regulation', 'formula', 'text', 'procedure', 'provision', 'direction']
+prescription
+substitute word----------- prohibition
+originial word--------- exercised
+['granted', 'vested', 'initiated', 'enforced', 'issued', 'awarded', 'enacted', 'extended', 'invoked', 'performed']
+exercised
+substitute word----------- granted
+originial word--------- extinctive
+['original', 'legal', 'historic', 'effective', 'invalid', 'ultimate', 'active', 'obsolete', 'essential', 'entire']
+extinctive
+substitute word----------- legal
+originial word--------- shall
+['will', 'may', 'must', 'cannot', 'can', 'whereby', 'should', 'would', 'procedure', 'commence']
+shall
+substitute word----------- will
+originial word--------- claim
+['prescription', 'lawsuit', 'title', 'remedy', 'property', 'right', 'suit', 'change', 'dispute', 'judgment']
+claim
+substitute word----------- prescription
+The legal prohibition of a prescription will become complete if not granted for a period of ten years .
+A loan for consumption becomes effective when one of the parties agrees to transfer the ownership of money, or any other substitute, to the other party, and the other party agrees to return the same amount of money or the same kind, quality, and quantity of any substitute therefor.
+originial word--------- consumption
+['use', 'utility', 'usage', 'supply', 'metabolism', 'expenditure', 'spending', 'participation', 'possession', 'delivery']
+consumption
+substitute word----------- supply
+originial word--------- transfer
+['convey', 'shift', 'pledge', 'switch', 'lease', 'take', 'give', 'surrender', 'share', 'move']
+transfer
+substitute word----------- shift
+originial word--------- substitute
+['alternative', 'supply', 'replacement', 'supplement', 'variant', 'candidate', 'commodity', 'provider', 'equivalent', 'service']
+substitute
+substitute word----------- alternative
+originial word--------- substitute
+['replacement', 'alternative', 'supply', 'money', 'change', 'compromise', 'payment', 'compensation', 'material', 'other']
+substitute
+substitute word----------- supply
+originial word--------- ownership
+['possession', 'identity', 'allegiance', 'acquisition', 'purchase', 'control', 'amount', 'transfer', 'account', 'title']
+ownership
+substitute word----------- possession
+originial word--------- agrees
+['is', 'accepts', 'promises', 'proposes', 'decides', 'intends', 'demands', 'wishes', 'chooses', 'offers']
+agrees
+substitute word----------- agrees
+originial word--------- therefor
+['afterwards', 'elsewhere', 'before', 'thus', 'here', 'till', 'subsequently', 'until', '.', 'hence']
+therefor
+substitute word----------- afterwards
+originial word--------- quantity
+['amount', 'mass', 'length', 'volume', 'weight', 'measure', 'supply', 'size', 'condition', 'price']
+quantity
+substitute word----------- amount
+originial word--------- agrees
+['promises', 'decides', 'accepts', 'refuses', 'manages', 'is', 'intends', 'chooses', 'contracts', 'deals']
+agrees
+substitute word----------- decides
+originial word--------- effective
+['operational', 'ineffective', 'active', 'functional', 'operative', 'apparent', 'complete', 'available', 'established', 'existent']
+effective
+substitute word----------- active
+A loan for supply becomes active when one of the parties decides to shift the possession of money , or any other alternative , to the other party , and the other party agrees to return the same amount of money or the same kind , quality , and amount of any supply afterwards .
+If the obligor has damaged, diminished or extinguished the security
+originial word--------- extinguished
+['ceased', 'ignited', 'eliminated', 'erased', 'dissipated', 'obscured', 'diminished', 'abolished', 'terminated', 'destroyed']
+extinguished
+substitute word----------- destroyed
+originial word--------- diminished
+['reduced', 'impaired', 'distorted', 'decreased', 'damaged', 'weakened', 'displaced', 'depleted', 'scattered', 'deteriorated']
+diminished
+substitute word----------- reduced
+originial word--------- damaged
+['weakened', 'diminished', 'injured', 'harmed', 'compromised', 'wounded', 'destroyed', 'beaten', 'worn', 'affected']
+damaged
+substitute word----------- weakened
+originial word--------- obligor
+['source', 'security', 'provider', 'guard', 'hero', 'bearer', 'intruder', 'solvent', 'stranger', 'robber']
+obligor
+substitute word----------- security
+If the security has weakened , reduced or destroyed the security
+If the obligor has failed to perform the obligation of furnishing the security.
+originial word--------- obligation
+['duty', 'assignment', 'oath', 'endeavor', 'requirement', 'objective', 'task', 'effort', 'expectation', 'responsibility']
+obligation
+substitute word----------- duty
+originial word--------- perform
+['fulfill', 'execute', 'discharge', 'complete', 'undergo', 'service', 'conduct', 'fail', 'fulfilled', 'do']
+perform
+substitute word----------- execute
+originial word--------- furnishing
+['providing', 'performing', 'receiving', 'distributing', 'maintaining', 'delivering', 'rendering', 'conducting', 'paying', 'carrying']
+furnishing
+substitute word----------- providing
+originial word--------- obligor
+['government', 'king', 'guard', 'security', 'minister', 'company', 'state', 'order', 'president', 'court']
+obligor
+substitute word----------- government
+If the government has failed to execute the duty of providing the security .
+The obligor may be released from liability to furnish a surety by furnishing other reasonable security in lieu thereof.
+originial word--------- released
+['freed', 'recovered', 'returned', 'free', 'given', 'held', 'allowed', 'drawn', 'departed', 'contracted']
+released
+substitute word----------- freed
+originial word--------- liability
+['responsibility', 'jurisdiction', 'prosecution', 'fault', 'damage', 'credit', 'action', 'duty', 'litigation', 'infringement']
+liability
+substitute word----------- responsibility
+originial word--------- reasonable
+['unreasonable', 'suitable', 'customary', 'substantial', 'rational', 'considerable', 'sensible', 'adequate', 'necessary', 'essential']
+reasonable
+substitute word----------- suitable
+originial word--------- furnishing
+['providing', 'supplying', 'any', 'rendering', 'some', 'an', 'obtaining', 'a', 'receiving', 'giving']
+furnishing
+substitute word----------- providing
+originial word--------- furnish
+['provide', 'supply', 'construct', 'conduct', 'render', 'bear', 'deposit', 'fund', 'produce', 'supplement']
+furnish
+substitute word----------- provide
+originial word--------- surety
+['security', 'guarantee', 'due', 'promise', 'warrant', 'witness', 'relief', 'liability', 'bond', 'reason']
+surety
+substitute word----------- security
+originial word--------- obligor
+['company', 'bond', 'bearer', 'person', 'sovereign', 'crown', 'treasury', 'defendant', 'plaintiff', 'receiver']
+obligor
+substitute word----------- company
+originial word--------- thereof
+['of', 'its', 'otherwise', 'it', 'such', 'itself', 'either', 'whatsoever', ')', 'respectively']
+thereof
+substitute word----------- of
+originial word--------- lieu
+['possession', 'excess', 'place', 'front', 'post', 'vice', 'violation', 'line', 'lack', 'support']
+lieu
+substitute word----------- place
+The company may be freed from responsibility to provide a security by providing other suitable security in place of .
+The assignment of a nominative claim cannot be set up against the obligor or any other third person, unless the assigner has given notice thereof to obligor or the obligor has consented thereto.

@@ -336,7 +336,7 @@ def get_score(sentence,tokenizer,maskedLM):
         #print(tokenize_input)
         mask_input = torch.tensor([tokenizer.convert_tokens_to_ids(tokenize_input)])
         #print(mask_input)
-        mask_input = mask_input.to('cuda')
+        mask_input = mask_input.to('cpu')
         with torch.no_grad():
             att, pre_word =maskedLM(mask_input)
         word_loss = cross_entropy_word(pre_word[0].cpu().numpy(),i,input_ids[i])
@@ -656,9 +656,9 @@ def candidate_generation(model, tokenizer, tokens, words, mask_index, positions,
 
     attention_mask = torch.tensor([feature.input_mask])
 
-    tokens_tensor = tokens_tensor.to('cuda')
-    token_type_ids = token_type_ids.to('cuda')
-    attention_mask = attention_mask.to('cuda')
+    tokens_tensor = tokens_tensor.to('cpu')
+    token_type_ids = token_type_ids.to('cpu')
+    attention_mask = attention_mask.to('cpu')
 
     with torch.no_grad():
         all_attentions,prediction_scores = model(tokens_tensor, token_type_ids, attention_mask)
@@ -881,7 +881,7 @@ def main():
     # Prepare model
     model = BertForMaskedLM.from_pretrained(args.bert_model,output_attentions=True)
     
-    model.to(device)
+    model.to("cpu")
 
     ranker = Ranker()
 
@@ -910,8 +910,10 @@ def main():
 
             print(one_sent)
 
-            simple_sent = simplified_sentence(one_sent, model, tokenizer, ranker, args.max_seq_length, threshold=0.5, num_selections=args.num_selections )
-
+            try:
+                simple_sent = simplified_sentence(one_sent, model, tokenizer, ranker, args.max_seq_length, threshold=0.5, num_selections=args.num_selections )
+            except:
+                print("Unexpected error:", sys.exc_info()[0])
             #simple_sent = "---------"
             
             output_sr_file.write(simple_sent)
